@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1756208187046
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1756208187046
+metrics: null
+model_id: m-be910f98543247e2b25793078e1313ca
+name: Random Forest_Model
+params: null
+run_id: f6872d0f4f0a4fb7b08406a6ebd46df1
+run_link: null
+source: models:/m-be910f98543247e2b25793078e1313ca
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Lenovo/SmartPremium_Project/mlruns/0/models/m-be910f98543247e2b25793078e1313ca/artifacts
+user_id: null
+version: 2

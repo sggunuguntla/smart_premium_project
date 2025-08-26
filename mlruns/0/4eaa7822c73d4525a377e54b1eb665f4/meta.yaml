@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Lenovo/SmartPremium_Project/mlruns/0/4eaa7822c73d4525a377e54b1eb665f4/artifacts
+end_time: 1756208196826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4eaa7822c73d4525a377e54b1eb665f4
+run_name: XGBoost_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756208187191
+status: 3
+tags: []
+user_id: Lenovo

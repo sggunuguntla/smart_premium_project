@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Lenovo/SmartPremium_Project/mlruns/0/424e96cc795344b78573945cfb4ffd1d/artifacts
+end_time: 1756208176194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 424e96cc795344b78573945cfb4ffd1d
+run_name: Linear Regression_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756208132853
+status: 3
+tags: []
+user_id: Lenovo

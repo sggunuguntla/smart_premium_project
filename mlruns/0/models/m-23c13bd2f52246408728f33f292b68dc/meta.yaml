@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Lenovo/SmartPremium_Project/mlruns/0/models/m-23c13bd2f52246408728f33f292b68dc/artifacts
+creation_timestamp: 1756208261000
+experiment_id: '0'
+last_updated_timestamp: 1756208271657
+model_id: m-23c13bd2f52246408728f33f292b68dc
+model_type: null
+name: model
+source_run_id: 5777cacf21de4d4e9c1438ee917f3ee8
+status: 2
+status_message: null

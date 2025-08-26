@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Lenovo/Premium_Project/mlruns/0/models/m-ec69ed3db20f4246976dc3dce837260c/artifacts
+creation_timestamp: 1756194191594
+experiment_id: '0'
+last_updated_timestamp: 1756194213539
+model_id: m-ec69ed3db20f4246976dc3dce837260c
+model_type: null
+name: model
+source_run_id: d6e4143a77b5494ca605de2c45fde1c5
+status: 2
+status_message: null

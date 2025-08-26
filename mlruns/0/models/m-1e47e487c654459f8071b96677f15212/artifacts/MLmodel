@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Lenovo/SmartPremium_Project/mlruns/0/models/m-1e47e487c654459f8071b96677f15212/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 3.3.1
+model_id: m-1e47e487c654459f8071b96677f15212
+model_size_bytes: 4510
+model_uuid: m-1e47e487c654459f8071b96677f15212
+prompts: null
+run_id: b0a9d1e4ee9b404b87fcc9018f3152fe
+utc_time_created: '2025-08-26 10:39:25.795080'

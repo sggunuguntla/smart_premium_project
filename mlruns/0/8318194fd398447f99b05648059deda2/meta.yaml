@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Lenovo/SmartPremium_Project/mlruns/0/8318194fd398447f99b05648059deda2/artifacts
+end_time: 1756204797670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8318194fd398447f99b05648059deda2
+run_name: Random Forest_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204789407
+status: 3
+tags: []
+user_id: Lenovo

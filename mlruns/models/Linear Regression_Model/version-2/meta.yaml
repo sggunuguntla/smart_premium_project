@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1756208176050
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1756208176050
+metrics: null
+model_id: m-d2380a2a887a47e4a43818bb0f829351
+name: Linear Regression_Model
+params: null
+run_id: 424e96cc795344b78573945cfb4ffd1d
+run_link: null
+source: models:/m-d2380a2a887a47e4a43818bb0f829351
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Lenovo/SmartPremium_Project/mlruns/0/models/m-d2380a2a887a47e4a43818bb0f829351/artifacts
+user_id: null
+version: 2

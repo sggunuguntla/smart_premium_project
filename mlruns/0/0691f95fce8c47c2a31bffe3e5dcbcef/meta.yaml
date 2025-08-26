@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Lenovo/Premium_Project/mlruns/0/0691f95fce8c47c2a31bffe3e5dcbcef/artifacts
+end_time: 1756199553432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0691f95fce8c47c2a31bffe3e5dcbcef
+run_name: Linear Regression_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756199540648
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Lenovo/Premium_Project/mlruns/0/5ffa4086c60e402b8966de5dbcfcc40e/artifacts
+end_time: 1756199562767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ffa4086c60e402b8966de5dbcfcc40e
+run_name: Random Forest_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756199553442
+status: 3
+tags: []
+user_id: Lenovo

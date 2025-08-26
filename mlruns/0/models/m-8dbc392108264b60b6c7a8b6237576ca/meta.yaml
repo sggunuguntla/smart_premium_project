@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Lenovo/SmartPremium_Project/mlruns/0/models/m-8dbc392108264b60b6c7a8b6237576ca/artifacts
+creation_timestamp: 1756204789668
+experiment_id: '0'
+last_updated_timestamp: 1756204797578
+model_id: m-8dbc392108264b60b6c7a8b6237576ca
+model_type: null
+name: model
+source_run_id: 8318194fd398447f99b05648059deda2
+status: 2
+status_message: null
