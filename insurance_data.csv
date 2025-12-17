@@ -1,0 +1,1001 @@
+Age,Gender,Marital Status,Number of Dependents,Education Level,Occupation,Annual Income,Credit Score,Health Score,Smoking Status,Exercise Frequency,Policy Type,Location,Insurance Duration,Vehicle Age,Property Type,Previous Claims,Premium Amount
+56.0,Male,Divorced,0.0,Master's,Self-Employed,193860.0,680.0,82.0,No,Monthly,Comprehensive,Rural,20.0,7.0,House,0.0,5725.562602808102
+69.0,Male,Single,1.0,High School,Employed,135945.0,417.0,37.0,No,Daily,Basic,Rural,9.0,16.0,Apartment,3.0,6278.257378684595
+46.0,Female,Divorced,0.0,High School,Self-Employed,66830.0,415.0,47.0,No,Monthly,Premium,Rural,10.0,2.0,House,0.0,7561.8808939996925
+32.0,Male,Single,4.0,Bachelor's,Employed,72446.0,559.0,86.0,Yes,Monthly,Basic,Rural,17.0,9.0,Apartment,1.0,3798.9402658589665
+60.0,Male,Divorced,5.0,Bachelor's,Employed,166232.0,374.0,34.0,No,Weekly,Basic,Urban,12.0,16.0,Condo,0.0,6600.958643963342
+25.0,Female,Married,0.0,Master's,Employed,185070.0,779.0,55.0,Yes,Monthly,Basic,Urban,6.0,10.0,Apartment,3.0,6145.986226763066
+78.0,Male,Divorced,3.0,Master's,Unemployed,178302.0,,59.0,No,Rarely,Premium,Rural,19.0,7.0,House,4.0,11506.013597962714
+,Male,Divorced,5.0,High School,Self-Employed,160148.0,306.0,83.0,No,Weekly,Basic,Rural,11.0,0.0,Apartment,4.0,4454.668380929438
+56.0,Male,Single,0.0,Bachelor's,Employed,89341.0,665.0,42.0,Yes,Weekly,Comprehensive,Urban,9.0,12.0,Apartment,1.0,10998.052635609534
+75.0,Male,Married,5.0,Bachelor's,Self-Employed,51085.0,822.0,58.0,No,Daily,Comprehensive,Suburban,6.0,20.0,Condo,3.0,8176.8553357804885
+,Male,Divorced,5.0,Bachelor's,Employed,75571.0,647.0,32.0,Yes,Daily,Comprehensive,Urban,16.0,3.0,House,0.0,9213.747015059422
+40.0,Female,Married,5.0,Master's,Self-Employed,165787.0,737.0,87.0,No,Daily,Premium,Urban,20.0,6.0,Apartment,4.0,9140.41761130108
+28.0,Male,Divorced,4.0,Bachelor's,Self-Employed,148308.0,514.0,31.0,Yes,Daily,Basic,Urban,16.0,13.0,Condo,5.0,8565.87614606085
+28.0,Male,Divorced,3.0,High School,Employed,25750.0,728.0,57.0,No,Rarely,Premium,Urban,6.0,4.0,Apartment,2.0,7421.379511595419
+41.0,Male,Married,2.0,High School,Unemployed,133931.0,797.0,31.0,No,Weekly,Basic,Urban,5.0,10.0,House,3.0,5711.439256994184
+70.0,Male,Divorced,2.0,Master's,Self-Employed,,839.0,36.0,No,Monthly,Comprehensive,Suburban,4.0,16.0,Apartment,5.0,10091.02843146895
+53.0,Male,Married,0.0,PhD,Unemployed,55903.0,666.0,55.0,Yes,Daily,Basic,Rural,2.0,4.0,Apartment,5.0,6763.2680403891145
+57.0,Female,Divorced,5.0,Master's,Unemployed,183165.0,612.0,45.0,Yes,Daily,Basic,Rural,6.0,19.0,Apartment,3.0,6982.004036156879
+41.0,Male,Single,0.0,PhD,Employed,111036.0,837.0,52.0,Yes,Daily,Basic,Suburban,9.0,2.0,Apartment,2.0,5424.498847333485
+20.0,Female,Married,,Bachelor's,Employed,107954.0,353.0,69.0,No,Monthly,Premium,Rural,17.0,,House,4.0,7383.0330510640515
+39.0,Female,Divorced,4.0,Master's,Employed,185386.0,840.0,89.0,Yes,Daily,Basic,Rural,14.0,14.0,Condo,2.0,4525.8357372180435
+70.0,Male,Divorced,,High School,Self-Employed,199297.0,766.0,61.0,Yes,Monthly,Basic,Rural,7.0,18.0,Condo,1.0,6429.862929343067
+19.0,Male,Single,4.0,Bachelor's,Employed,103014.0,463.0,44.0,Yes,Weekly,Basic,Suburban,19.0,15.0,Apartment,0.0,4489.199388224731
+41.0,Male,Married,1.0,High School,Employed,186251.0,633.0,42.0,Yes,Weekly,Premium,Suburban,1.0,7.0,House,0.0,11299.79914124682
+61.0,Male,Divorced,3.0,Bachelor's,Self-Employed,137305.0,846.0,34.0,Yes,Weekly,Premium,Rural,20.0,12.0,House,5.0,14374.240325633422
+47.0,Female,Single,0.0,Master's,Self-Employed,,647.0,81.0,Yes,Rarely,Premium,Rural,15.0,,House,4.0,10768.29530966852
+55.0,Male,Divorced,3.0,PhD,Employed,52101.0,572.0,70.0,Yes,Monthly,Basic,Rural,18.0,2.0,House,2.0,5583.610478232072
+19.0,Male,Married,4.0,Bachelor's,Employed,22775.0,713.0,82.0,Yes,Daily,Comprehensive,Urban,3.0,0.0,House,,7927.479690361982
+77.0,Male,Divorced,3.0,PhD,Employed,131497.0,799.0,79.0,Yes,Daily,Comprehensive,Urban,18.0,,House,3.0,12105.564194303806
+38.0,Male,Divorced,,Bachelor's,Employed,65619.0,392.0,44.0,Yes,Daily,Comprehensive,Urban,2.0,8.0,Apartment,5.0,12276.479629712985
+50.0,Male,Divorced,3.0,High School,Unemployed,196910.0,378.0,36.0,No,Daily,Basic,Suburban,10.0,16.0,Condo,3.0,6474.12891995585
+29.0,Male,Divorced,4.0,High School,Unemployed,170611.0,516.0,69.0,No,Rarely,Comprehensive,Rural,11.0,1.0,Condo,3.0,6048.223800049408
+75.0,Female,Single,5.0,Bachelor's,Employed,77124.0,657.0,57.0,Yes,Daily,Comprehensive,Suburban,3.0,8.0,Apartment,1.0,10623.769632528778
+39.0,Female,Single,3.0,PhD,Unemployed,85149.0,806.0,61.0,No,Rarely,Comprehensive,Suburban,7.0,18.0,Condo,,5331.040144626241
+78.0,Male,Married,1.0,Master's,Self-Employed,46616.0,480.0,44.0,No,Monthly,Basic,Suburban,8.0,12.0,House,3.0,6575.768549981292
+,Male,Single,4.0,Master's,Unemployed,188171.0,545.0,,Yes,Weekly,Comprehensive,Rural,19.0,4.0,House,4.0,9236.303823395458
+42.0,Male,Single,,High School,Unemployed,81799.0,543.0,94.0,Yes,Daily,Comprehensive,Urban,,8.0,Condo,1.0,7342.4935764882775
+66.0,Female,Married,5.0,Master's,Employed,110221.0,805.0,33.0,Yes,Weekly,Basic,Rural,13.0,12.0,House,1.0,6182.855096145493
+44.0,Male,Single,4.0,High School,Unemployed,134879.0,721.0,40.0,No,Monthly,Premium,Rural,13.0,0.0,House,0.0,7488.718147144588
+76.0,Female,Single,2.0,Master's,Unemployed,45479.0,619.0,55.0,Yes,Monthly,Comprehensive,Suburban,19.0,14.0,Condo,5.0,12937.346762199391
+59.0,Male,Married,5.0,Bachelor's,Unemployed,197244.0,386.0,90.0,No,Daily,Premium,Suburban,12.0,3.0,Apartment,0.0,7943.047091740691
+45.0,Male,Married,1.0,High School,Unemployed,119165.0,516.0,66.0,Yes,Monthly,Comprehensive,Suburban,17.0,3.0,Condo,4.0,10585.518628619826
+77.0,Male,Married,3.0,High School,Self-Employed,75863.0,789.0,,No,Weekly,Basic,Urban,12.0,19.0,Condo,1.0,6031.16520384248
+33.0,Male,Divorced,2.0,Bachelor's,Employed,193115.0,818.0,69.0,No,Daily,Premium,Urban,13.0,9.0,Condo,1.0,7793.8871595541395
+32.0,Female,Divorced,2.0,High School,Employed,102569.0,577.0,52.0,Yes,Rarely,Premium,Urban,12.0,5.0,Condo,2.0,11269.748823566018
+79.0,Female,Married,4.0,Master's,Self-Employed,166480.0,468.0,45.0,Yes,Daily,Premium,Rural,19.0,11.0,Apartment,4.0,16272.022092032725
+79.0,Male,Married,2.0,Master's,Unemployed,36351.0,629.0,90.0,No,Weekly,Premium,Suburban,14.0,19.0,Apartment,5.0,11161.951092112373
+64.0,Male,Married,1.0,High School,Self-Employed,155203.0,740.0,97.0,No,Daily,Comprehensive,Rural,7.0,15.0,House,5.0,7497.237378607264
+79.0,Female,Divorced,1.0,Master's,Unemployed,64825.0,,60.0,Yes,Daily,Comprehensive,Urban,,2.0,House,5.0,14025.941712452111
+68.0,Female,Divorced,0.0,PhD,Self-Employed,31349.0,795.0,82.0,Yes,Weekly,Premium,Suburban,6.0,13.0,Condo,4.0,12481.944741545443
+61.0,Female,Single,1.0,High School,Employed,64254.0,680.0,54.0,No,Daily,Comprehensive,Urban,19.0,0.0,House,2.0,8388.121018278123
+72.0,Female,Single,5.0,Bachelor's,Employed,58225.0,605.0,73.0,Yes,Daily,Premium,Suburban,19.0,9.0,Apartment,2.0,12384.178017302653
+69.0,Male,Married,2.0,PhD,Employed,,812.0,41.0,No,Weekly,Premium,Suburban,,14.0,House,0.0,8862.26130258967
+74.0,Female,Divorced,1.0,High School,Unemployed,,487.0,38.0,Yes,Monthly,Basic,Rural,19.0,6.0,House,4.0,8794.037907322774
+20.0,Male,Divorced,4.0,Bachelor's,Unemployed,169335.0,815.0,41.0,Yes,Weekly,Premium,Rural,9.0,3.0,House,4.0,9880.70501052674
+54.0,Female,Divorced,0.0,Master's,Self-Employed,97694.0,726.0,98.0,Yes,Daily,Comprehensive,Urban,16.0,13.0,Condo,2.0,8443.952887921752
+68.0,Female,Married,2.0,Bachelor's,Self-Employed,35735.0,801.0,83.0,No,Rarely,Premium,Rural,4.0,15.0,House,3.0,8071.186850480353
+24.0,Female,Single,0.0,PhD,Employed,166902.0,559.0,83.0,Yes,Rarely,Basic,Rural,6.0,13.0,Apartment,3.0,4513.641544570986
+38.0,Female,Married,2.0,Master's,Unemployed,67893.0,812.0,57.0,No,Weekly,Comprehensive,Rural,8.0,2.0,Apartment,0.0,4160.86269800315
+26.0,Female,Single,4.0,High School,Self-Employed,195745.0,370.0,85.0,Yes,Rarely,Basic,Suburban,16.0,16.0,Apartment,3.0,5345.284235313171
+56.0,Male,Single,0.0,Master's,Unemployed,147006.0,777.0,98.0,No,Daily,Basic,Rural,5.0,20.0,Apartment,3.0,3873.845270973529
+35.0,Male,Married,3.0,High School,Unemployed,65066.0,477.0,87.0,No,Daily,Premium,Urban,10.0,13.0,House,3.0,7961.206495623003
+21.0,Female,Single,5.0,High School,Employed,154445.0,756.0,71.0,Yes,Weekly,Basic,Suburban,13.0,17.0,Condo,1.0,3916.6822789018734
+42.0,Female,Single,5.0,Bachelor's,Employed,161407.0,488.0,67.0,No,Daily,Basic,Suburban,14.0,,Apartment,0.0,4318.06443146966
+77.0,Male,Divorced,2.0,Bachelor's,Unemployed,174813.0,590.0,97.0,No,Monthly,Comprehensive,Rural,7.0,18.0,Apartment,2.0,7164.185956516814
+31.0,Female,Single,3.0,Bachelor's,Unemployed,30692.0,819.0,82.0,No,Daily,Basic,Suburban,20.0,2.0,Condo,3.0,3184.2790124537673
+67.0,Female,Married,0.0,PhD,Unemployed,198367.0,591.0,62.0,No,Weekly,Premium,Urban,6.0,11.0,Condo,5.0,14047.297194867038
+75.0,Male,Married,,PhD,Unemployed,65541.0,582.0,85.0,Yes,Monthly,Premium,Urban,7.0,4.0,Apartment,1.0,13102.077611193008
+26.0,Female,Single,3.0,Bachelor's,Employed,185129.0,843.0,80.0,Yes,Monthly,Premium,Suburban,5.0,9.0,Apartment,3.0,9208.481727497136
+43.0,Female,Divorced,0.0,PhD,Self-Employed,86983.0,676.0,72.0,Yes,Rarely,Basic,Rural,18.0,8.0,Condo,1.0,4505.035182434703
+70.0,Male,Divorced,4.0,Master's,Employed,170655.0,455.0,44.0,No,Daily,Comprehensive,Rural,12.0,0.0,Apartment,0.0,7990.455303479677
+19.0,Male,Single,3.0,Master's,Self-Employed,,807.0,67.0,No,Weekly,Premium,Suburban,6.0,12.0,Apartment,5.0,8213.690022971192
+37.0,Male,Single,3.0,PhD,Unemployed,174978.0,712.0,44.0,Yes,Rarely,Basic,Urban,,2.0,House,5.0,8557.728540450618
+45.0,Female,Married,4.0,PhD,Self-Employed,140747.0,827.0,34.0,Yes,Rarely,Premium,Suburban,,18.0,Condo,5.0,14778.233802017445
+64.0,Male,Single,3.0,Master's,Employed,105103.0,654.0,83.0,No,Daily,Premium,Rural,19.0,10.0,House,3.0,8914.13303195131
+77.0,Male,Divorced,3.0,High School,Employed,197597.0,486.0,80.0,Yes,Daily,Comprehensive,Rural,12.0,15.0,House,1.0,9907.025969602584
+24.0,Male,Single,3.0,Master's,Unemployed,189302.0,330.0,39.0,Yes,Weekly,Premium,Suburban,15.0,5.0,Condo,5.0,14487.580696059711
+61.0,Male,Married,5.0,Master's,Employed,170592.0,559.0,41.0,No,Rarely,Comprehensive,Urban,3.0,2.0,House,4.0,10960.735303206857
+78.0,Male,Married,1.0,PhD,Unemployed,45566.0,720.0,33.0,Yes,Weekly,Basic,Suburban,20.0,18.0,Apartment,4.0,8777.183813849595
+,Male,Married,4.0,Master's,Employed,93193.0,828.0,47.0,No,Rarely,Premium,Urban,8.0,5.0,House,1.0,7415.84783554726
+64.0,Female,Married,3.0,PhD,Employed,181206.0,603.0,65.0,Yes,Rarely,Basic,Urban,11.0,7.0,Condo,3.0,8612.917068907203
+52.0,Female,Married,5.0,PhD,Unemployed,161417.0,338.0,54.0,No,Rarely,Basic,Suburban,16.0,,Apartment,3.0,5921.376695136478
+31.0,Male,Single,4.0,Bachelor's,Self-Employed,141015.0,788.0,65.0,No,Daily,Basic,Suburban,9.0,11.0,Apartment,0.0,3344.94223538654
+34.0,Male,Single,2.0,Master's,Employed,192257.0,841.0,96.0,No,Rarely,Premium,Urban,3.0,9.0,Apartment,0.0,5500.404027781603
+53.0,Male,Single,2.0,High School,Self-Employed,150956.0,577.0,38.0,No,Rarely,Comprehensive,Urban,5.0,2.0,Apartment,5.0,11363.139938415392
+67.0,Female,Single,3.0,Bachelor's,Employed,90744.0,502.0,90.0,No,Rarely,Premium,Urban,20.0,3.0,House,2.0,10080.297751062191
+57.0,Female,Married,5.0,PhD,Employed,53455.0,365.0,82.0,Yes,Monthly,Basic,Urban,14.0,0.0,House,0.0,5615.024748584283
+21.0,Female,Divorced,5.0,PhD,Employed,179090.0,407.0,47.0,Yes,Daily,Comprehensive,Rural,15.0,12.0,Apartment,3.0,8627.365586699863
+19.0,Female,Single,4.0,High School,Employed,74219.0,567.0,72.0,Yes,Monthly,Basic,Suburban,6.0,3.0,Condo,2.0,4173.547933584541
+79.0,Female,Divorced,,PhD,Self-Employed,65991.0,521.0,64.0,No,Daily,Comprehensive,Urban,4.0,10.0,Apartment,0.0,8401.055270410336
+23.0,Female,Single,5.0,Master's,Self-Employed,93616.0,829.0,92.0,Yes,Weekly,Premium,Suburban,8.0,18.0,House,1.0,5674.838351455662
+71.0,Female,Single,4.0,Bachelor's,Employed,107438.0,389.0,33.0,No,Monthly,Comprehensive,Urban,19.0,10.0,Apartment,4.0,12388.27456606341
+59.0,Female,Divorced,5.0,PhD,Employed,,554.0,70.0,No,Weekly,Premium,Suburban,5.0,11.0,House,0.0,8289.810635255426
+21.0,Female,Married,1.0,PhD,Self-Employed,160558.0,754.0,74.0,Yes,Rarely,Basic,Suburban,13.0,10.0,Apartment,0.0,3704.3236785844356
+71.0,Male,Single,5.0,High School,Unemployed,189934.0,552.0,79.0,No,Weekly,Comprehensive,Urban,16.0,,Condo,1.0,8690.558234535572
+46.0,Male,Single,2.0,Master's,Unemployed,78870.0,556.0,57.0,Yes,Weekly,Basic,Urban,1.0,11.0,Apartment,3.0,7227.824688675347
+35.0,Male,Single,4.0,PhD,Self-Employed,106694.0,682.0,71.0,No,Weekly,Comprehensive,Suburban,13.0,8.0,Condo,5.0,7221.409555120309
+43.0,Male,Divorced,5.0,High School,Employed,63856.0,741.0,98.0,No,Weekly,Premium,Suburban,11.0,9.0,Condo,1.0,5540.977826986215
+61.0,Female,Married,5.0,PhD,Employed,121407.0,389.0,30.0,Yes,Daily,Comprehensive,Suburban,8.0,2.0,Apartment,5.0,14491.91113439901
+51.0,Female,Divorced,4.0,High School,Unemployed,51379.0,689.0,68.0,No,Monthly,Comprehensive,Rural,8.0,2.0,Condo,0.0,4805.170071910453
+27.0,Male,Divorced,1.0,High School,Unemployed,84729.0,343.0,46.0,Yes,Daily,Premium,Urban,14.0,19.0,Condo,3.0,13466.80854682125
+79.0,Female,Married,1.0,Master's,Self-Employed,179450.0,318.0,64.0,No,Daily,Premium,Rural,13.0,15.0,House,2.0,11361.396051343352
+53.0,Male,Divorced,4.0,PhD,Unemployed,74353.0,400.0,75.0,Yes,Daily,Premium,Rural,3.0,2.0,House,0.0,9331.314130267945
+31.0,Female,Married,0.0,Master's,Self-Employed,,656.0,71.0,No,Weekly,Comprehensive,Urban,4.0,9.0,Condo,1.0,5029.151409414977
+48.0,Male,Single,4.0,High School,Unemployed,85982.0,841.0,68.0,Yes,Daily,Basic,Urban,20.0,10.0,Apartment,2.0,5677.694267792552
+65.0,Female,Married,4.0,Bachelor's,Unemployed,56683.0,332.0,78.0,Yes,Monthly,Comprehensive,Rural,15.0,7.0,Condo,4.0,10597.24134637488
+32.0,Female,Single,1.0,PhD,Unemployed,134091.0,528.0,91.0,No,Daily,Comprehensive,Urban,15.0,5.0,Apartment,2.0,5753.93075082724
+25.0,Male,Divorced,1.0,Bachelor's,Employed,137797.0,823.0,67.0,Yes,Rarely,Basic,Suburban,13.0,19.0,House,1.0,4120.165448245089
+31.0,Female,Divorced,4.0,PhD,Employed,168690.0,454.0,52.0,No,Weekly,Premium,Suburban,9.0,10.0,Apartment,2.0,9166.974166337588
+40.0,Male,Single,4.0,Master's,Employed,26587.0,722.0,51.0,No,Rarely,Comprehensive,Rural,10.0,20.0,Condo,1.0,5168.2894061790275
+77.0,Male,Divorced,4.0,Master's,Unemployed,82790.0,545.0,33.0,Yes,Monthly,Basic,Rural,12.0,11.0,Condo,0.0,7192.192612605927
+74.0,Male,Married,1.0,Master's,Self-Employed,51480.0,704.0,78.0,Yes,Monthly,Premium,Urban,14.0,15.0,Condo,3.0,14230.101339241231
+79.0,Male,Single,4.0,Master's,Self-Employed,171599.0,840.0,88.0,Yes,Monthly,Premium,Urban,1.0,17.0,Condo,4.0,15484.515675243796
+57.0,Female,Divorced,4.0,Master's,Self-Employed,43569.0,460.0,97.0,Yes,Monthly,Comprehensive,Rural,14.0,12.0,Condo,3.0,8060.568888221763
+,Female,Single,3.0,Bachelor's,Self-Employed,31151.0,416.0,31.0,Yes,Daily,Premium,Rural,14.0,2.0,Apartment,3.0,11874.94923174289
+33.0,Female,Married,,Master's,Employed,64739.0,570.0,78.0,No,Weekly,Premium,Suburban,8.0,14.0,Condo,3.0,7953.137748761482
+62.0,Male,Married,2.0,High School,Employed,52954.0,786.0,60.0,Yes,Monthly,Basic,Suburban,16.0,20.0,House,1.0,5679.4590267773965
+35.0,Female,Divorced,0.0,High School,Unemployed,129373.0,471.0,69.0,No,Rarely,Basic,Urban,14.0,13.0,Condo,1.0,4380.3117789341295
+64.0,Male,Married,3.0,Bachelor's,Unemployed,186375.0,573.0,77.0,Yes,Monthly,Premium,Suburban,1.0,17.0,Apartment,4.0,14529.283125963257
+70.0,Female,Single,2.0,PhD,Self-Employed,54700.0,558.0,80.0,Yes,Weekly,Basic,Urban,16.0,13.0,Condo,1.0,6729.683083685641
+41.0,Female,Married,4.0,High School,Employed,143728.0,434.0,,Yes,Rarely,Premium,Urban,18.0,4.0,Condo,5.0,14958.362313518726
+43.0,Female,Single,3.0,PhD,Self-Employed,86788.0,721.0,84.0,No,Rarely,Comprehensive,Urban,7.0,20.0,Apartment,1.0,5464.500835587899
+42.0,Male,Single,4.0,Bachelor's,Unemployed,91045.0,720.0,78.0,Yes,Rarely,Basic,Suburban,15.0,13.0,Condo,1.0,4695.881521939378
+77.0,Female,Married,1.0,PhD,Unemployed,188914.0,485.0,86.0,No,Daily,Premium,Rural,17.0,7.0,Apartment,1.0,9264.840725582108
+77.0,Female,Divorced,5.0,PhD,Self-Employed,164972.0,663.0,44.0,No,Monthly,Premium,Rural,19.0,14.0,Condo,0.0,10095.557593576783
+77.0,Male,Married,3.0,PhD,Unemployed,147992.0,677.0,56.0,No,Daily,Basic,Suburban,13.0,14.0,House,4.0,6595.05657534227
+62.0,Female,Single,,PhD,Self-Employed,100059.0,822.0,97.0,Yes,Rarely,Basic,Rural,9.0,18.0,Condo,5.0,6265.606734263645
+58.0,Male,Single,3.0,Bachelor's,Employed,21881.0,495.0,93.0,No,Daily,Comprehensive,Urban,15.0,19.0,Apartment,,6495.989401275031
+46.0,Female,Married,3.0,High School,Self-Employed,184109.0,397.0,59.0,Yes,Daily,Premium,Rural,3.0,5.0,House,4.0,13428.253162917023
+32.0,Male,Divorced,1.0,Master's,Employed,152702.0,,65.0,No,Daily,Comprehensive,Suburban,1.0,18.0,Apartment,2.0,7008.9026931245735
+62.0,Male,Divorced,2.0,PhD,Employed,40789.0,749.0,96.0,Yes,Monthly,Comprehensive,Rural,,7.0,Condo,0.0,5706.895900028804
+18.0,Female,Single,0.0,High School,Unemployed,,471.0,78.0,No,Rarely,Comprehensive,Urban,8.0,5.0,House,1.0,5225.203615968174
+42.0,Male,Single,4.0,High School,Unemployed,108059.0,682.0,84.0,Yes,Rarely,Basic,Urban,13.0,19.0,Apartment,5.0,6593.8478378324635
+24.0,Male,Divorced,3.0,Bachelor's,Unemployed,66151.0,433.0,85.0,Yes,Monthly,Comprehensive,Suburban,8.0,14.0,House,0.0,5226.711076761299
+26.0,Male,Married,4.0,High School,Self-Employed,199992.0,725.0,97.0,Yes,Daily,Basic,Suburban,17.0,2.0,House,5.0,5431.9769752263655
+41.0,Male,Single,5.0,Bachelor's,Self-Employed,129388.0,324.0,73.0,No,Daily,Basic,Suburban,14.0,9.0,Apartment,0.0,4096.296559137089
+18.0,Male,Single,1.0,PhD,Unemployed,23262.0,802.0,60.0,No,Weekly,Comprehensive,Urban,,14.0,House,2.0,5100.280645027373
+61.0,Male,Divorced,4.0,PhD,Self-Employed,86981.0,484.0,87.0,Yes,Weekly,Comprehensive,Rural,15.0,15.0,Apartment,4.0,9456.867853787418
+25.0,Female,Married,1.0,Master's,Unemployed,140951.0,384.0,82.0,No,Weekly,Premium,Rural,16.0,16.0,House,0.0,4989.820531431556
+41.0,Male,Divorced,4.0,Master's,Self-Employed,143099.0,443.0,52.0,No,Monthly,Comprehensive,Suburban,19.0,18.0,House,3.0,8832.207002191955
+28.0,Male,Married,0.0,Master's,Employed,101972.0,711.0,57.0,No,Rarely,Premium,Rural,6.0,10.0,House,2.0,6379.489291703336
+68.0,Female,Married,0.0,High School,Employed,95485.0,523.0,45.0,No,Weekly,Comprehensive,Rural,1.0,15.0,Condo,3.0,8759.68802175825
+34.0,Female,Married,0.0,PhD,Unemployed,74722.0,519.0,66.0,No,Rarely,Comprehensive,Suburban,12.0,4.0,Condo,2.0,5825.882665791037
+25.0,Female,Single,0.0,Bachelor's,Self-Employed,109499.0,478.0,50.0,No,Rarely,Comprehensive,Suburban,18.0,4.0,Apartment,3.0,6998.8364346936705
+52.0,Female,Divorced,0.0,Master's,Self-Employed,181004.0,,46.0,No,Rarely,Comprehensive,Urban,16.0,13.0,House,3.0,9227.637238385727
+52.0,Female,Divorced,0.0,Bachelor's,Employed,26901.0,564.0,66.0,Yes,Monthly,Premium,Urban,12.0,17.0,Apartment,5.0,14185.576233351097
+50.0,Female,Married,1.0,Bachelor's,Employed,137473.0,,48.0,Yes,Monthly,Premium,Urban,20.0,7.0,Condo,0.0,11829.665925991494
+76.0,Female,Single,3.0,Master's,Unemployed,28597.0,715.0,59.0,No,Monthly,Comprehensive,Urban,13.0,4.0,Condo,0.0,7900.7271283539
+,Male,Single,4.0,PhD,Employed,149631.0,752.0,74.0,Yes,Monthly,Comprehensive,Rural,8.0,6.0,Condo,2.0,5816.736435268767
+59.0,Male,Divorced,0.0,Master's,Unemployed,83909.0,496.0,47.0,Yes,Weekly,Premium,Rural,1.0,15.0,Condo,4.0,13768.414144656745
+56.0,Female,Single,1.0,Bachelor's,Employed,92391.0,,91.0,Yes,Daily,Basic,Urban,,13.0,Apartment,5.0,8043.278902654832
+75.0,Male,Single,1.0,Master's,Employed,159335.0,779.0,65.0,No,Daily,Basic,Urban,15.0,4.0,House,0.0,5547.86396322731
+,Male,Married,1.0,Bachelor's,Self-Employed,83293.0,742.0,81.0,No,Daily,Basic,Suburban,13.0,8.0,Apartment,0.0,3755.9944003308597
+45.0,Male,Single,3.0,Bachelor's,Employed,176877.0,629.0,48.0,No,Weekly,Premium,Rural,13.0,3.0,House,5.0,10369.584132245913
+24.0,Female,Married,4.0,Master's,Employed,31874.0,550.0,73.0,No,Daily,Premium,Rural,9.0,3.0,Condo,1.0,4986.994333559584
+26.0,Female,Divorced,3.0,High School,Unemployed,106402.0,422.0,36.0,No,Weekly,Basic,Urban,15.0,15.0,House,5.0,6120.318097940879
+25.0,Male,Single,2.0,Master's,Employed,34079.0,,73.0,Yes,Weekly,Basic,Rural,4.0,16.0,Condo,0.0,3028.346840800823
+29.0,Female,Divorced,1.0,High School,Unemployed,92779.0,638.0,97.0,No,Weekly,Comprehensive,Suburban,13.0,14.0,Apartment,4.0,5436.874530540028
+51.0,Male,Divorced,2.0,Bachelor's,Employed,115408.0,647.0,63.0,Yes,Daily,Premium,Suburban,12.0,3.0,House,,10833.662854890421
+50.0,Male,Single,5.0,Bachelor's,Employed,160090.0,328.0,95.0,No,Rarely,Premium,Rural,5.0,5.0,Apartment,3.0,8532.466362100851
+65.0,Male,Single,0.0,High School,Unemployed,140606.0,334.0,98.0,Yes,Daily,Basic,Urban,7.0,15.0,Condo,5.0,8731.105925400314
+72.0,Male,Divorced,,Bachelor's,Self-Employed,140062.0,817.0,84.0,No,Daily,Basic,Rural,8.0,3.0,Apartment,3.0,4609.699135755684
+40.0,Female,Single,3.0,High School,Unemployed,32100.0,695.0,39.0,No,Monthly,Premium,Suburban,5.0,5.0,Condo,1.0,8125.881728587654
+79.0,Female,Married,4.0,High School,Unemployed,77021.0,593.0,71.0,No,Weekly,Comprehensive,Urban,9.0,,Condo,1.0,8565.373803017525
+41.0,Female,Married,2.0,Bachelor's,Unemployed,170872.0,648.0,70.0,No,Rarely,Basic,Rural,14.0,15.0,Condo,1.0,3507.724291217852
+54.0,Male,Single,4.0,PhD,Self-Employed,148126.0,446.0,98.0,No,Monthly,Premium,Urban,12.0,15.0,Apartment,2.0,9470.410293568691
+52.0,Female,Divorced,3.0,High School,Employed,112446.0,366.0,39.0,No,Rarely,Premium,Urban,4.0,9.0,Apartment,5.0,14392.106619482889
+61.0,Male,Single,0.0,Master's,Unemployed,49437.0,819.0,39.0,Yes,Rarely,Comprehensive,Suburban,20.0,8.0,House,4.0,11333.648161554112
+57.0,Female,Single,4.0,Master's,Unemployed,,421.0,89.0,No,Weekly,Comprehensive,Urban,8.0,3.0,House,4.0,9555.854474546628
+39.0,Male,Divorced,4.0,Bachelor's,Self-Employed,171014.0,639.0,80.0,Yes,Daily,Basic,Rural,17.0,13.0,Apartment,3.0,4981.664808346329
+44.0,Male,Divorced,0.0,PhD,Unemployed,40862.0,474.0,50.0,No,Weekly,Basic,Urban,8.0,3.0,Apartment,,5451.755736782139
+52.0,Male,Married,2.0,Bachelor's,Employed,31669.0,750.0,,Yes,Weekly,Basic,Urban,1.0,11.0,Apartment,3.0,7774.946318344138
+18.0,Female,Divorced,0.0,PhD,Self-Employed,141219.0,435.0,94.0,Yes,Monthly,Premium,Rural,20.0,9.0,Apartment,5.0,9139.649331151428
+52.0,Female,Married,4.0,High School,Employed,35916.0,,59.0,Yes,Weekly,Basic,Suburban,2.0,3.0,Condo,,6087.409151028156
+54.0,Female,Divorced,2.0,High School,Employed,30878.0,632.0,78.0,Yes,Daily,Premium,Suburban,4.0,17.0,Condo,3.0,11333.022250887268
+64.0,Female,Single,2.0,High School,Self-Employed,22985.0,494.0,38.0,Yes,Rarely,Basic,Rural,1.0,12.0,Condo,1.0,5981.451861376527
+31.0,Male,Married,0.0,High School,Unemployed,61235.0,795.0,46.0,Yes,Weekly,Comprehensive,Rural,7.0,12.0,Apartment,3.0,7252.798831988884
+20.0,Female,Married,4.0,Master's,Employed,38931.0,308.0,98.0,No,Rarely,Comprehensive,Suburban,1.0,13.0,Condo,1.0,4001.2811603155615
+18.0,Female,Married,3.0,Master's,Employed,112876.0,633.0,87.0,Yes,Weekly,Premium,Urban,9.0,17.0,Condo,2.0,7464.907103811889
+22.0,Male,Single,4.0,Bachelor's,Employed,20336.0,632.0,86.0,No,Rarely,Comprehensive,Rural,3.0,0.0,House,0.0,2605.4333914791846
+43.0,Male,Single,1.0,PhD,Employed,62933.0,,91.0,No,Weekly,Premium,Urban,12.0,20.0,House,0.0,6444.290730882082
+72.0,Male,Single,5.0,High School,Self-Employed,65536.0,314.0,81.0,Yes,Monthly,Premium,Rural,19.0,15.0,Condo,5.0,14141.725224677824
+,Female,Single,3.0,High School,Self-Employed,89504.0,525.0,90.0,Yes,Rarely,Comprehensive,Suburban,15.0,14.0,Condo,5.0,8718.190915724208
+56.0,Male,Single,2.0,PhD,Employed,119214.0,724.0,69.0,No,Weekly,Premium,Urban,16.0,4.0,Condo,4.0,11095.681845969533
+44.0,Male,Married,3.0,PhD,Unemployed,133936.0,707.0,67.0,Yes,Weekly,Comprehensive,Urban,10.0,5.0,Apartment,2.0,9294.599629141077
+26.0,Male,Single,2.0,Bachelor's,Employed,36279.0,412.0,72.0,Yes,Monthly,Basic,Rural,6.0,5.0,House,5.0,5046.719865459894
+32.0,Female,Married,2.0,PhD,Unemployed,123751.0,727.0,,Yes,Monthly,Basic,Urban,17.0,2.0,House,1.0,4227.700141312876
+32.0,Male,Single,3.0,High School,Employed,124433.0,300.0,48.0,Yes,Monthly,Comprehensive,Rural,17.0,15.0,House,2.0,9040.880767813773
+43.0,Female,Divorced,2.0,High School,Unemployed,91386.0,565.0,,Yes,Rarely,Comprehensive,Suburban,19.0,11.0,Condo,0.0,6666.505304046849
+59.0,Female,Married,2.0,High School,Employed,,790.0,62.0,Yes,Rarely,Comprehensive,Urban,18.0,3.0,Apartment,1.0,9778.823590845774
+77.0,Male,Divorced,1.0,High School,Unemployed,,507.0,42.0,Yes,Monthly,Comprehensive,Rural,11.0,0.0,House,2.0,11285.711239329601
+30.0,Male,Married,4.0,High School,Employed,97485.0,668.0,,No,Daily,Basic,Urban,7.0,3.0,House,0.0,2656.4189617499915
+68.0,Female,Divorced,4.0,Bachelor's,Employed,94055.0,605.0,72.0,Yes,Daily,Premium,Rural,10.0,0.0,Apartment,,13669.90895689231
+49.0,Male,Single,5.0,High School,Unemployed,,,78.0,No,Weekly,Premium,Rural,7.0,20.0,Condo,1.0,7840.442414079963
+56.0,Male,Single,5.0,Bachelor's,Self-Employed,118618.0,644.0,65.0,No,Daily,Basic,Rural,,7.0,Condo,1.0,4290.854549991638
+66.0,Female,Single,1.0,High School,Unemployed,133892.0,764.0,39.0,No,Weekly,Premium,Suburban,12.0,4.0,House,0.0,9375.879737850553
+69.0,Female,Married,5.0,Master's,Self-Employed,,793.0,35.0,No,Rarely,Basic,Urban,16.0,1.0,House,1.0,5997.896232173052
+78.0,Male,Divorced,3.0,Master's,Employed,169180.0,667.0,86.0,Yes,Rarely,Premium,Suburban,18.0,11.0,Apartment,5.0,15566.248777941073
+49.0,Female,Single,0.0,Master's,Unemployed,72495.0,719.0,30.0,No,Daily,Comprehensive,Rural,3.0,16.0,House,5.0,8280.627344836592
+21.0,Male,Divorced,0.0,Master's,Unemployed,102806.0,470.0,87.0,No,Rarely,Comprehensive,Rural,20.0,,Apartment,5.0,5662.914112902531
+47.0,Male,Divorced,0.0,Bachelor's,Unemployed,113185.0,433.0,50.0,No,Monthly,Comprehensive,Suburban,15.0,10.0,House,0.0,7173.180378239047
+54.0,Male,Single,1.0,Bachelor's,Self-Employed,190591.0,726.0,85.0,No,Monthly,Basic,Suburban,5.0,3.0,House,3.0,4939.811407338705
+,Female,Single,1.0,PhD,Self-Employed,,324.0,49.0,No,Daily,Basic,Urban,13.0,4.0,House,3.0,6162.181994577417
+56.0,Male,Divorced,2.0,High School,Employed,185596.0,829.0,,Yes,Daily,Premium,Rural,19.0,5.0,Condo,1.0,9038.712837114565
+62.0,Male,Single,0.0,Master's,Self-Employed,,489.0,54.0,Yes,Weekly,Premium,Suburban,12.0,10.0,Apartment,5.0,16636.315438415633
+32.0,Male,Single,3.0,Bachelor's,Self-Employed,195441.0,440.0,57.0,No,Rarely,Premium,Rural,5.0,0.0,Apartment,1.0,7901.275278164092
+60.0,Female,Single,5.0,High School,Employed,115402.0,614.0,34.0,Yes,Weekly,Basic,Rural,6.0,9.0,Condo,0.0,6244.644407580127
+46.0,Female,Married,3.0,High School,Unemployed,,743.0,50.0,Yes,Weekly,Premium,Urban,7.0,19.0,Condo,1.0,11042.625746528221
+,Female,Divorced,5.0,Bachelor's,Unemployed,84093.0,618.0,47.0,No,Monthly,Comprehensive,Urban,10.0,20.0,Condo,4.0,9689.858375702059
+30.0,Female,Divorced,0.0,Master's,Employed,198836.0,740.0,76.0,No,Monthly,Premium,Urban,16.0,10.0,Apartment,3.0,8720.948913439886
+49.0,Female,Married,0.0,PhD,Unemployed,99414.0,391.0,99.0,No,Monthly,Comprehensive,Suburban,8.0,16.0,House,1.0,5837.922162601518
+24.0,Male,Divorced,0.0,High School,Self-Employed,113095.0,478.0,86.0,Yes,Monthly,Basic,Rural,9.0,7.0,Condo,1.0,3485.3813143946927
+76.0,Female,Single,1.0,PhD,Employed,92307.0,355.0,,No,Weekly,Comprehensive,Suburban,4.0,12.0,Condo,2.0,9705.589439028863
+,Female,Divorced,5.0,Master's,Employed,115432.0,454.0,94.0,Yes,Monthly,Comprehensive,Suburban,8.0,19.0,Condo,1.0,9260.81389956996
+39.0,Female,Single,1.0,Master's,Employed,51923.0,410.0,32.0,Yes,Rarely,Comprehensive,Urban,7.0,17.0,House,4.0,12531.596931071137
+45.0,Male,Married,1.0,PhD,Unemployed,137449.0,436.0,71.0,Yes,Monthly,Basic,Rural,15.0,15.0,House,3.0,6219.041331557083
+19.0,Female,Single,4.0,Master's,Employed,67574.0,531.0,50.0,No,Monthly,Basic,Rural,3.0,1.0,Condo,2.0,3383.444357519594
+59.0,Female,Divorced,3.0,High School,Employed,194463.0,767.0,69.0,Yes,Monthly,Basic,Urban,17.0,4.0,House,0.0,6177.400240324899
+62.0,Male,Divorced,,PhD,Employed,,780.0,96.0,No,Daily,Basic,Rural,11.0,17.0,Condo,0.0,3840.936065914007
+79.0,Female,Divorced,2.0,Master's,Unemployed,73664.0,367.0,54.0,No,Rarely,Premium,Urban,9.0,2.0,House,3.0,13918.525639897547
+74.0,Male,Married,1.0,PhD,Self-Employed,,548.0,,No,Rarely,Basic,Suburban,5.0,16.0,Apartment,,4783.588551577907
+70.0,Male,Married,5.0,High School,Employed,51027.0,622.0,81.0,No,Weekly,Comprehensive,Suburban,10.0,15.0,Apartment,4.0,8421.731674405175
+23.0,Male,Divorced,4.0,Master's,Self-Employed,186536.0,817.0,73.0,No,Weekly,Basic,Urban,15.0,5.0,House,1.0,3476.9532877121783
+45.0,Male,Single,4.0,High School,Unemployed,54485.0,731.0,85.0,Yes,Monthly,Premium,Suburban,,,Apartment,3.0,9627.280003851367
+45.0,Male,Married,3.0,Master's,Unemployed,170528.0,786.0,84.0,Yes,Daily,Premium,Suburban,4.0,6.0,Apartment,2.0,9307.484859328415
+61.0,Female,Divorced,1.0,Bachelor's,Unemployed,55554.0,728.0,99.0,Yes,Weekly,Premium,Urban,20.0,17.0,Apartment,,9550.902401840438
+61.0,Male,Divorced,2.0,Master's,Unemployed,66922.0,568.0,95.0,Yes,Weekly,Comprehensive,Suburban,2.0,13.0,Condo,0.0,7317.655442683458
+37.0,Male,Married,1.0,PhD,Self-Employed,33409.0,836.0,48.0,Yes,Monthly,Basic,Rural,12.0,5.0,House,0.0,3345.327472398621
+,Female,Married,0.0,Master's,Employed,56639.0,447.0,,No,Monthly,Basic,Suburban,1.0,7.0,House,2.0,5381.679678542056
+79.0,Male,Married,1.0,High School,Unemployed,39692.0,417.0,92.0,No,Weekly,Basic,Urban,20.0,14.0,House,4.0,6648.170902172866
+28.0,Female,Single,0.0,High School,Unemployed,109037.0,666.0,71.0,Yes,Weekly,Comprehensive,Rural,5.0,14.0,Apartment,2.0,6531.2474634206865
+75.0,Female,Single,0.0,Master's,Self-Employed,38074.0,,71.0,Yes,Rarely,Comprehensive,Rural,6.0,14.0,Condo,3.0,10692.270529492942
+72.0,Female,Divorced,2.0,PhD,Self-Employed,166621.0,669.0,88.0,Yes,Daily,Premium,Suburban,11.0,15.0,House,2.0,12876.633140323422
+45.0,Male,Married,5.0,Bachelor's,Unemployed,49963.0,474.0,49.0,No,Rarely,Premium,Rural,8.0,0.0,Apartment,0.0,7519.072526648376
+42.0,Male,Single,3.0,PhD,Employed,72265.0,794.0,46.0,No,Weekly,Basic,Urban,7.0,10.0,Condo,4.0,5801.349587081837
+56.0,Male,Married,1.0,Bachelor's,Employed,36061.0,413.0,56.0,No,Rarely,Comprehensive,Rural,4.0,4.0,Condo,4.0,7949.615679780386
+79.0,Female,Divorced,0.0,High School,Unemployed,,410.0,76.0,Yes,Rarely,Comprehensive,Suburban,6.0,4.0,House,5.0,14012.155629045448
+50.0,Male,Single,1.0,PhD,Self-Employed,133502.0,738.0,31.0,Yes,Weekly,Basic,Suburban,16.0,20.0,House,2.0,7106.897974910539
+18.0,Male,Single,5.0,Bachelor's,Unemployed,42800.0,446.0,92.0,Yes,Monthly,Basic,Rural,20.0,5.0,Apartment,,3606.5323696650566
+74.0,Male,Single,3.0,Master's,Unemployed,136192.0,334.0,91.0,Yes,Weekly,Premium,Urban,15.0,1.0,House,0.0,13593.215346449128
+44.0,Female,Divorced,5.0,High School,Self-Employed,127228.0,608.0,48.0,No,Monthly,Premium,Urban,14.0,5.0,Apartment,1.0,9734.151041660198
+79.0,Female,Married,3.0,Master's,Unemployed,48054.0,837.0,46.0,Yes,Weekly,Premium,Suburban,12.0,13.0,Condo,4.0,15497.011209110655
+74.0,Male,Single,4.0,High School,Unemployed,196469.0,313.0,98.0,Yes,Weekly,Basic,Suburban,12.0,10.0,Condo,,7717.81635672242
+69.0,Male,Divorced,3.0,PhD,Unemployed,33233.0,673.0,68.0,Yes,Weekly,Basic,Urban,16.0,3.0,Condo,5.0,8498.93298919308
+30.0,Male,Married,2.0,PhD,Self-Employed,176140.0,727.0,68.0,No,Daily,Premium,Rural,15.0,8.0,Condo,3.0,7015.390670785344
+58.0,Male,Divorced,5.0,High School,Employed,85727.0,532.0,65.0,No,Monthly,Premium,Rural,13.0,2.0,House,,9130.10874066984
+20.0,Female,Married,0.0,High School,Employed,110610.0,,69.0,Yes,Daily,Comprehensive,Rural,11.0,15.0,House,0.0,4405.263503265656
+56.0,Female,Divorced,4.0,High School,Self-Employed,90453.0,801.0,74.0,No,Weekly,Comprehensive,Rural,17.0,10.0,Apartment,4.0,6969.92734750745
+23.0,Female,Married,2.0,PhD,Employed,124135.0,574.0,33.0,No,Rarely,Premium,Urban,15.0,3.0,Apartment,0.0,7887.327313239007
+25.0,Female,Single,1.0,Bachelor's,Unemployed,176904.0,375.0,54.0,No,Daily,Premium,Suburban,14.0,0.0,Apartment,5.0,10498.706074357835
+44.0,Male,Married,5.0,Master's,Employed,128464.0,738.0,98.0,No,Monthly,Comprehensive,Suburban,10.0,20.0,Apartment,1.0,5079.525498389118
+26.0,Male,Divorced,0.0,Master's,Unemployed,33682.0,588.0,59.0,No,Weekly,Premium,Rural,12.0,15.0,Apartment,1.0,5490.313108282931
+79.0,Male,Divorced,3.0,PhD,Employed,174455.0,839.0,97.0,Yes,Daily,Comprehensive,Urban,16.0,18.0,Condo,1.0,10179.64460666393
+54.0,Female,Married,0.0,Master's,Self-Employed,78160.0,552.0,58.0,Yes,Rarely,Comprehensive,Urban,15.0,15.0,Condo,3.0,11297.02572829911
+50.0,Male,Single,1.0,High School,Employed,43666.0,425.0,97.0,Yes,Daily,Comprehensive,Rural,10.0,10.0,Condo,4.0,8203.771945439437
+68.0,Female,Single,4.0,Bachelor's,Employed,78817.0,476.0,80.0,No,Monthly,Basic,Rural,4.0,7.0,Apartment,0.0,4211.750569771505
+59.0,Female,Married,4.0,Master's,Employed,111198.0,336.0,53.0,No,Daily,Basic,Rural,9.0,0.0,Condo,0.0,4667.242693663707
+61.0,Male,Married,5.0,Bachelor's,Self-Employed,185714.0,709.0,43.0,No,Rarely,Premium,Suburban,20.0,20.0,Condo,5.0,12787.560257495663
+41.0,Male,Divorced,4.0,High School,Employed,61830.0,,98.0,No,Rarely,Comprehensive,Rural,9.0,8.0,Condo,1.0,4643.319164312105
+32.0,Male,Single,5.0,Master's,Self-Employed,30234.0,782.0,47.0,Yes,Monthly,Basic,Suburban,20.0,11.0,Condo,4.0,5796.155083075107
+76.0,Female,Married,5.0,PhD,Unemployed,77616.0,467.0,71.0,Yes,Rarely,Premium,Urban,11.0,,House,4.0,17282.312326215928
+71.0,Male,Single,5.0,Bachelor's,Employed,29221.0,593.0,86.0,Yes,Weekly,Premium,Urban,11.0,16.0,Apartment,,15675.553434468418
+49.0,Female,Married,3.0,High School,Self-Employed,162482.0,642.0,41.0,Yes,Rarely,Premium,Suburban,7.0,9.0,Apartment,2.0,13071.742568147276
+,Male,Married,2.0,Bachelor's,Self-Employed,21051.0,609.0,46.0,Yes,Weekly,Premium,Suburban,10.0,6.0,House,,13627.55916489154
+41.0,Female,Single,5.0,Master's,Employed,130529.0,827.0,59.0,Yes,Daily,Premium,Suburban,4.0,18.0,Condo,4.0,11890.160198100313
+58.0,Female,Married,5.0,Master's,Unemployed,96918.0,839.0,52.0,No,Weekly,Comprehensive,Suburban,5.0,5.0,Condo,0.0,6874.77698994397
+69.0,Male,Married,,PhD,Self-Employed,98116.0,,30.0,No,Weekly,Premium,Rural,5.0,20.0,Condo,5.0,11895.699582827227
+,Female,Divorced,0.0,High School,Employed,142226.0,743.0,61.0,Yes,Daily,Comprehensive,Urban,11.0,18.0,Apartment,4.0,13088.918795028394
+79.0,Female,Married,5.0,High School,Unemployed,64757.0,535.0,38.0,No,Rarely,Basic,Rural,9.0,,Apartment,4.0,6558.327322305882
+66.0,Male,Married,3.0,PhD,Self-Employed,141008.0,738.0,44.0,Yes,Weekly,Premium,Suburban,16.0,14.0,Apartment,0.0,12517.665692355331
+75.0,Female,Married,4.0,PhD,Self-Employed,151379.0,513.0,,Yes,Rarely,Basic,Rural,9.0,,Apartment,,8083.683197635882
+69.0,Male,Divorced,4.0,High School,Unemployed,76889.0,384.0,53.0,No,Daily,Comprehensive,Rural,,13.0,Apartment,0.0,7552.540711271362
+29.0,Female,Single,1.0,Bachelor's,Unemployed,55944.0,384.0,89.0,Yes,Monthly,Comprehensive,Urban,2.0,20.0,House,2.0,7385.955030047599
+79.0,Male,Divorced,1.0,Bachelor's,Employed,,788.0,64.0,Yes,Rarely,Basic,Rural,14.0,9.0,Apartment,3.0,6938.152186749084
+56.0,Male,Divorced,4.0,PhD,Employed,58134.0,364.0,56.0,Yes,Rarely,Premium,Urban,3.0,15.0,Condo,0.0,12494.883709762782
+19.0,Female,Single,4.0,Bachelor's,Self-Employed,178395.0,363.0,49.0,No,Monthly,Premium,Suburban,18.0,6.0,Apartment,0.0,7657.472944020987
+20.0,Female,Divorced,3.0,High School,Unemployed,45954.0,642.0,94.0,No,Monthly,Basic,Rural,6.0,7.0,House,4.0,2766.3990876990792
+66.0,Female,Single,2.0,Master's,Unemployed,109959.0,651.0,78.0,No,Daily,Basic,Suburban,11.0,9.0,Condo,0.0,4606.232043589589
+54.0,Female,Divorced,1.0,Master's,Unemployed,24992.0,457.0,30.0,No,Rarely,Basic,Urban,18.0,14.0,House,5.0,7149.373836585806
+66.0,Female,Single,2.0,Bachelor's,Self-Employed,21961.0,790.0,39.0,Yes,Rarely,Premium,Suburban,12.0,7.0,Condo,1.0,12537.836673039084
+73.0,Male,Married,3.0,PhD,Unemployed,32497.0,762.0,76.0,No,Daily,Premium,Suburban,5.0,12.0,Apartment,1.0,8649.05612334455
+34.0,Female,Divorced,4.0,PhD,Unemployed,183623.0,524.0,88.0,No,Rarely,Premium,Urban,9.0,11.0,House,2.0,8171.503365786728
+76.0,Male,Divorced,5.0,PhD,Self-Employed,33255.0,612.0,91.0,No,Weekly,Basic,Suburban,20.0,7.0,Condo,0.0,4062.964805742116
+66.0,Male,Divorced,2.0,PhD,Employed,155639.0,765.0,47.0,Yes,Weekly,Premium,Suburban,,14.0,Apartment,5.0,16226.37413490839
+19.0,Female,Divorced,4.0,PhD,Employed,,387.0,75.0,No,Weekly,Comprehensive,Suburban,19.0,11.0,Condo,4.0,6011.122025979646
+19.0,Male,Married,,Bachelor's,Self-Employed,199075.0,602.0,61.0,No,Rarely,Basic,Rural,3.0,10.0,House,4.0,4361.226636024729
+45.0,Male,Divorced,0.0,Master's,Unemployed,40389.0,734.0,,Yes,Weekly,Premium,Suburban,9.0,18.0,House,3.0,11252.238822922682
+71.0,Male,Married,2.0,Master's,Self-Employed,195595.0,434.0,47.0,Yes,Weekly,Basic,Urban,4.0,13.0,House,2.0,9272.14691349826
+40.0,Male,Married,5.0,Bachelor's,Employed,143802.0,349.0,68.0,Yes,Daily,Comprehensive,Rural,17.0,17.0,House,5.0,10101.911357799785
+54.0,Female,Married,2.0,PhD,Employed,81576.0,731.0,78.0,Yes,Daily,Comprehensive,Rural,17.0,12.0,Apartment,5.0,9178.251499611943
+49.0,Male,Married,4.0,Bachelor's,Self-Employed,63919.0,639.0,73.0,No,Monthly,Basic,Urban,2.0,3.0,Condo,4.0,4985.605821277254
+50.0,Female,Single,5.0,Master's,Self-Employed,,,83.0,Yes,Monthly,Basic,Suburban,9.0,16.0,Apartment,3.0,5456.879017114767
+18.0,Female,Single,3.0,High School,Employed,108535.0,646.0,,No,Monthly,Comprehensive,Rural,9.0,18.0,House,4.0,5664.167595205747
+36.0,Male,Divorced,0.0,Bachelor's,Self-Employed,125982.0,,65.0,No,Monthly,Basic,Rural,5.0,8.0,Condo,3.0,4178.649623548512
+79.0,Female,Single,4.0,PhD,Employed,25698.0,408.0,47.0,No,Daily,Comprehensive,Rural,15.0,6.0,House,1.0,8153.570575749331
+19.0,Female,Single,1.0,Master's,Self-Employed,86809.0,832.0,67.0,No,Daily,Comprehensive,Suburban,,0.0,Apartment,5.0,6048.956626154554
+70.0,Female,Divorced,1.0,Master's,Self-Employed,113079.0,,88.0,No,Daily,Premium,Rural,3.0,6.0,Apartment,1.0,8432.962801845786
+61.0,Male,Divorced,0.0,Master's,Self-Employed,75805.0,,38.0,Yes,Weekly,Basic,Urban,19.0,6.0,Apartment,4.0,9239.835532232079
+43.0,Female,Divorced,3.0,Master's,Employed,182421.0,411.0,80.0,No,Weekly,Basic,Suburban,3.0,19.0,Condo,2.0,5003.58085956634
+49.0,Female,Single,4.0,PhD,Self-Employed,,476.0,64.0,No,Monthly,Premium,Urban,6.0,,Condo,0.0,8445.45052251052
+23.0,Female,Single,2.0,High School,Employed,118239.0,642.0,34.0,No,Weekly,Comprehensive,Urban,4.0,7.0,House,2.0,7174.127449518692
+49.0,Male,Divorced,0.0,Master's,Employed,150407.0,400.0,43.0,Yes,Rarely,Basic,Rural,13.0,15.0,Condo,2.0,7169.588256690743
+72.0,Female,Married,3.0,Bachelor's,Self-Employed,64041.0,700.0,59.0,No,Daily,Premium,Rural,13.0,2.0,Condo,0.0,8134.389826641599
+21.0,Male,Divorced,2.0,High School,Self-Employed,51954.0,327.0,33.0,No,Monthly,Premium,Rural,11.0,12.0,Apartment,5.0,9329.3191099018
+,Male,Married,1.0,Master's,Employed,28002.0,836.0,68.0,Yes,Monthly,Basic,Urban,5.0,9.0,House,1.0,6444.034953955589
+28.0,Male,Married,1.0,High School,Employed,89783.0,357.0,93.0,No,Rarely,Premium,Suburban,1.0,17.0,Apartment,1.0,6247.2595288545635
+73.0,Male,Divorced,2.0,Bachelor's,Unemployed,127524.0,797.0,54.0,No,Weekly,Comprehensive,Rural,9.0,6.0,House,5.0,8801.710960754166
+76.0,Male,Divorced,0.0,Master's,Employed,144857.0,596.0,57.0,Yes,Monthly,Premium,Rural,17.0,20.0,House,0.0,12246.095080337027
+34.0,Male,Divorced,1.0,Bachelor's,Unemployed,39738.0,433.0,95.0,No,Weekly,Comprehensive,Urban,1.0,20.0,Condo,3.0,6059.800593844349
+55.0,Female,Single,4.0,PhD,Unemployed,30703.0,630.0,51.0,No,Weekly,Comprehensive,Suburban,3.0,4.0,Apartment,2.0,7246.249415458362
+41.0,Male,Married,5.0,Master's,Unemployed,133776.0,548.0,60.0,No,Rarely,Basic,Urban,15.0,6.0,Condo,4.0,5825.91386986617
+22.0,Female,Single,2.0,Master's,Self-Employed,163464.0,849.0,52.0,No,Monthly,Premium,Rural,10.0,16.0,Condo,1.0,5808.305902819585
+69.0,Female,Single,,Master's,Self-Employed,64724.0,374.0,,No,Weekly,Comprehensive,Urban,8.0,3.0,Condo,5.0,10415.069674915432
+51.0,Male,Divorced,1.0,Master's,Employed,52299.0,467.0,49.0,Yes,Weekly,Comprehensive,Rural,12.0,15.0,House,4.0,10412.07748356301
+23.0,Female,Single,0.0,PhD,Unemployed,35641.0,802.0,67.0,Yes,Rarely,Premium,Suburban,15.0,18.0,Apartment,0.0,5631.782931015445
+39.0,Female,Divorced,4.0,Master's,Self-Employed,99534.0,654.0,84.0,Yes,Rarely,Comprehensive,Urban,9.0,9.0,Apartment,4.0,9413.968689591968
+28.0,Female,Married,0.0,High School,Self-Employed,26305.0,524.0,97.0,No,Weekly,Premium,Rural,10.0,2.0,Condo,4.0,6079.245268277606
+65.0,Female,Divorced,3.0,Master's,Self-Employed,38782.0,830.0,30.0,No,Rarely,Basic,Rural,20.0,,House,2.0,5018.359809736675
+33.0,Male,Single,3.0,PhD,Self-Employed,98257.0,445.0,36.0,No,Weekly,Comprehensive,Rural,9.0,16.0,Apartment,0.0,6009.433786696658
+50.0,Female,Single,5.0,Master's,Self-Employed,97963.0,540.0,86.0,Yes,Monthly,Comprehensive,Rural,15.0,9.0,Apartment,4.0,8589.74745344729
+,Male,Divorced,1.0,High School,Unemployed,141987.0,643.0,41.0,No,Daily,Premium,Urban,1.0,16.0,Condo,1.0,8612.018157962464
+77.0,Female,Divorced,1.0,PhD,Unemployed,171638.0,334.0,34.0,No,Rarely,Premium,Rural,2.0,16.0,House,0.0,11295.202140023339
+76.0,Female,Single,1.0,PhD,Unemployed,144591.0,300.0,79.0,No,Daily,Premium,Urban,19.0,20.0,Condo,1.0,12078.499765448123
+,Male,Married,5.0,High School,Unemployed,,452.0,71.0,Yes,Weekly,Premium,Rural,14.0,3.0,Apartment,5.0,9810.345060347803
+33.0,Female,Married,3.0,High School,Employed,26511.0,728.0,41.0,Yes,Weekly,Comprehensive,Urban,8.0,20.0,House,5.0,10992.497607734815
+46.0,Female,Divorced,0.0,High School,Unemployed,134816.0,807.0,47.0,No,Weekly,Basic,Urban,,5.0,Condo,3.0,5812.324353912323
+,Female,Married,5.0,High School,Self-Employed,177249.0,425.0,95.0,No,Daily,Basic,Rural,12.0,11.0,Apartment,5.0,3831.804673841903
+37.0,Male,Single,5.0,High School,Unemployed,24765.0,790.0,46.0,No,Weekly,Basic,Rural,15.0,19.0,Condo,4.0,4112.3897151513565
+77.0,Female,Divorced,0.0,PhD,Employed,171426.0,781.0,97.0,Yes,Rarely,Basic,Rural,14.0,16.0,Condo,0.0,4993.80615895551
+76.0,Male,Single,1.0,PhD,Self-Employed,43929.0,644.0,91.0,Yes,Monthly,Premium,Rural,1.0,16.0,Condo,5.0,12520.235843733526
+53.0,Female,Single,4.0,Master's,Unemployed,179892.0,520.0,70.0,Yes,Monthly,Comprehensive,Suburban,11.0,9.0,House,1.0,9585.909610801562
+36.0,Male,Married,0.0,Master's,Unemployed,131576.0,,63.0,No,Rarely,Comprehensive,Rural,3.0,6.0,Apartment,4.0,7767.850983302835
+43.0,Male,Divorced,3.0,Bachelor's,Unemployed,180595.0,827.0,99.0,Yes,Monthly,Comprehensive,Rural,19.0,15.0,Apartment,5.0,7862.076895568373
+20.0,Female,Divorced,2.0,Master's,Self-Employed,91088.0,481.0,74.0,No,Daily,Premium,Rural,18.0,12.0,Apartment,2.0,5743.334310759003
+36.0,Female,Married,2.0,Master's,Self-Employed,97525.0,798.0,87.0,No,Weekly,Comprehensive,Urban,20.0,2.0,Apartment,,4928.824307375579
+37.0,Male,Single,5.0,High School,Employed,33780.0,341.0,80.0,Yes,Weekly,Premium,Rural,2.0,1.0,House,1.0,7729.614497526064
+,Male,Single,2.0,High School,Self-Employed,,780.0,63.0,No,Weekly,Comprehensive,Urban,7.0,15.0,Condo,3.0,7230.377733101625
+24.0,Female,Single,4.0,Master's,Self-Employed,185884.0,,73.0,Yes,Daily,Basic,Urban,8.0,5.0,Apartment,2.0,5151.959343947347
+69.0,Male,Single,1.0,Bachelor's,Unemployed,113664.0,701.0,44.0,No,Daily,Premium,Urban,19.0,5.0,House,3.0,12602.642335399816
+58.0,Female,Divorced,3.0,High School,Self-Employed,197011.0,845.0,99.0,No,Daily,Comprehensive,Urban,15.0,12.0,Condo,5.0,8786.560875309935
+50.0,Female,Divorced,4.0,Master's,Unemployed,124188.0,644.0,79.0,Yes,Rarely,Basic,Suburban,10.0,6.0,House,2.0,5474.694126986423
+57.0,Female,Married,3.0,Master's,Unemployed,113326.0,344.0,61.0,No,Daily,Basic,Rural,1.0,4.0,House,1.0,4895.214664840423
+56.0,Female,Married,3.0,PhD,Self-Employed,60953.0,320.0,96.0,No,Monthly,Basic,Urban,6.0,6.0,Apartment,3.0,5604.29365437708
+35.0,Male,Divorced,1.0,Bachelor's,Employed,85785.0,369.0,32.0,No,Rarely,Premium,Rural,13.0,1.0,Apartment,4.0,9973.093698969366
+57.0,Female,Divorced,5.0,PhD,Employed,39309.0,347.0,80.0,No,Rarely,Premium,Urban,14.0,16.0,Condo,2.0,9876.709138608807
+18.0,Male,Single,2.0,Bachelor's,Self-Employed,74195.0,790.0,,No,Rarely,Comprehensive,Suburban,3.0,12.0,Condo,1.0,3002.426362594499
+28.0,Female,Single,1.0,High School,Employed,45901.0,586.0,77.0,No,Daily,Basic,Urban,,20.0,Apartment,0.0,2901.6916932120216
+45.0,Male,Married,4.0,Bachelor's,Unemployed,174648.0,309.0,46.0,No,Rarely,Comprehensive,Rural,,20.0,House,2.0,7342.0455603048395
+74.0,Female,Divorced,5.0,Master's,Unemployed,182580.0,841.0,36.0,No,Daily,Comprehensive,Rural,19.0,15.0,Apartment,2.0,8337.121533399126
+42.0,Male,Married,4.0,Master's,Self-Employed,45464.0,,42.0,Yes,Daily,Basic,Suburban,10.0,19.0,Condo,5.0,7455.936976904425
+67.0,Male,Divorced,5.0,Bachelor's,Employed,36260.0,680.0,95.0,Yes,Rarely,Comprehensive,Rural,15.0,1.0,House,4.0,8476.367823005896
+40.0,Female,Single,,Bachelor's,Employed,144997.0,628.0,33.0,No,Weekly,Premium,Rural,11.0,4.0,House,5.0,10351.505172846139
+48.0,Female,Married,1.0,Bachelor's,Unemployed,55440.0,778.0,39.0,No,Weekly,Comprehensive,Urban,15.0,17.0,House,2.0,8017.419831882298
+47.0,Female,Married,5.0,PhD,Self-Employed,115082.0,314.0,46.0,Yes,Rarely,Basic,Rural,13.0,6.0,Apartment,2.0,6550.5005944945
+59.0,Female,Divorced,5.0,Bachelor's,Employed,125583.0,815.0,,No,Weekly,Premium,Urban,5.0,10.0,Apartment,4.0,10718.754704423793
+52.0,Male,Single,3.0,High School,Self-Employed,76683.0,490.0,35.0,Yes,Monthly,Premium,Suburban,,10.0,Condo,4.0,15275.492757600321
+24.0,Female,Married,3.0,PhD,Employed,144206.0,467.0,98.0,Yes,Monthly,Comprehensive,Rural,13.0,16.0,House,3.0,6384.424269944574
+77.0,Male,Single,0.0,PhD,Unemployed,192502.0,820.0,38.0,Yes,Daily,Comprehensive,Urban,9.0,15.0,House,1.0,13040.729302838745
+33.0,Male,Married,4.0,Bachelor's,Unemployed,153059.0,436.0,50.0,No,Weekly,Premium,Rural,17.0,12.0,Apartment,1.0,7419.727030251722
+43.0,Female,Single,3.0,High School,Self-Employed,176177.0,453.0,53.0,No,Monthly,Comprehensive,Urban,2.0,,Condo,3.0,9137.463770997892
+65.0,Male,Divorced,0.0,PhD,Unemployed,98484.0,687.0,33.0,No,Rarely,Basic,Suburban,5.0,19.0,Condo,1.0,5477.299023469427
+74.0,Male,Married,3.0,Master's,Employed,164098.0,508.0,53.0,Yes,Weekly,Comprehensive,Urban,16.0,15.0,House,2.0,13633.711313825104
+69.0,Male,Married,4.0,PhD,Unemployed,88309.0,571.0,,Yes,Monthly,Comprehensive,Rural,7.0,15.0,Apartment,3.0,8996.393507422923
+77.0,Male,Single,5.0,Bachelor's,Self-Employed,65927.0,442.0,32.0,Yes,Monthly,Premium,Urban,,15.0,House,3.0,19013.68482244703
+66.0,Female,Single,2.0,High School,Self-Employed,62946.0,368.0,97.0,No,Rarely,Comprehensive,Rural,12.0,13.0,Apartment,1.0,5922.053414697298
+19.0,Female,Married,4.0,Bachelor's,Self-Employed,146503.0,546.0,69.0,Yes,Daily,Comprehensive,Suburban,11.0,5.0,Condo,,5809.2495957253695
+18.0,Female,Divorced,1.0,Master's,Employed,161449.0,560.0,77.0,Yes,Rarely,Comprehensive,Urban,12.0,1.0,House,1.0,6735.113999405246
+65.0,Female,Single,3.0,Master's,Employed,73592.0,378.0,83.0,No,Daily,Basic,Rural,19.0,13.0,House,5.0,5712.446589320337
+79.0,Male,Single,3.0,Master's,Employed,158419.0,824.0,64.0,Yes,Monthly,Comprehensive,Rural,12.0,15.0,House,0.0,9371.167947390973
+29.0,Male,Single,,Bachelor's,Employed,53776.0,629.0,85.0,Yes,Daily,Basic,Rural,12.0,19.0,Condo,3.0,4447.272068222759
+22.0,Female,Married,1.0,PhD,Employed,154855.0,488.0,69.0,No,Monthly,Basic,Urban,14.0,12.0,House,0.0,3332.522875929719
+54.0,Female,Married,5.0,Bachelor's,Unemployed,75798.0,394.0,,No,Monthly,Basic,Urban,2.0,14.0,Condo,2.0,4704.643104759001
+49.0,Female,Married,1.0,High School,Employed,155370.0,307.0,75.0,Yes,Weekly,Basic,Urban,2.0,11.0,Apartment,4.0,8138.82310990954
+76.0,Male,Married,2.0,PhD,Employed,90204.0,366.0,42.0,No,Daily,Premium,Suburban,4.0,8.0,Condo,0.0,11337.591825545122
+72.0,Female,Divorced,3.0,Master's,Unemployed,106207.0,795.0,56.0,Yes,Daily,Basic,Rural,20.0,17.0,Apartment,5.0,7653.785280642719
+26.0,Female,Divorced,3.0,Bachelor's,Employed,120356.0,490.0,35.0,No,Daily,Comprehensive,Rural,16.0,20.0,Condo,4.0,7142.9220303268
+58.0,Female,Married,2.0,Master's,Self-Employed,80652.0,665.0,46.0,Yes,Rarely,Basic,Suburban,10.0,13.0,Condo,2.0,6776.603118247325
+52.0,Male,Divorced,0.0,Master's,Employed,185556.0,820.0,65.0,No,Weekly,Comprehensive,Suburban,13.0,19.0,House,5.0,8425.849252249649
+36.0,Male,Single,,High School,Employed,149572.0,416.0,31.0,Yes,Weekly,Basic,Urban,2.0,,Condo,4.0,8204.59137085803
+65.0,Male,Single,2.0,PhD,Self-Employed,40922.0,566.0,81.0,No,Weekly,Premium,Urban,3.0,7.0,House,2.0,9545.673593293453
+33.0,Male,Single,5.0,High School,Self-Employed,185100.0,,95.0,No,Rarely,Basic,Urban,19.0,7.0,Apartment,4.0,4579.954933036923
+20.0,Male,Married,4.0,High School,Self-Employed,,808.0,,No,Daily,Basic,Urban,,15.0,Apartment,4.0,4394.56809674825
+37.0,Male,Single,3.0,High School,Self-Employed,96996.0,597.0,72.0,No,Daily,Premium,Urban,19.0,9.0,House,1.0,7910.688517452498
+41.0,Male,Divorced,5.0,Master's,Employed,168040.0,463.0,51.0,No,Daily,Basic,Urban,20.0,20.0,Apartment,5.0,6943.942788436595
+71.0,Male,Married,,High School,Self-Employed,50266.0,675.0,84.0,No,Weekly,Comprehensive,Suburban,19.0,16.0,Condo,5.0,8415.207610697014
+73.0,Female,Divorced,5.0,High School,Self-Employed,175072.0,567.0,96.0,No,Weekly,Basic,Suburban,8.0,,House,0.0,4372.843510478323
+50.0,Female,Single,4.0,PhD,Unemployed,165083.0,848.0,89.0,Yes,Monthly,Basic,Suburban,14.0,17.0,House,5.0,6095.586971423602
+41.0,Male,Single,3.0,PhD,Self-Employed,22866.0,373.0,87.0,Yes,Rarely,Basic,Rural,10.0,9.0,House,5.0,5553.957448423256
+69.0,Male,Single,2.0,High School,Self-Employed,,807.0,41.0,No,Rarely,Premium,Rural,3.0,20.0,Apartment,4.0,10978.536993861195
+28.0,Female,Married,4.0,PhD,Unemployed,25898.0,372.0,98.0,No,Weekly,Basic,Urban,6.0,3.0,Apartment,3.0,3578.474345616463
+,Male,Divorced,3.0,PhD,Unemployed,38395.0,607.0,68.0,Yes,Monthly,Basic,Suburban,15.0,0.0,Condo,1.0,6209.711614727421
+25.0,Male,Married,5.0,High School,Employed,190091.0,498.0,42.0,Yes,Daily,Comprehensive,Rural,18.0,3.0,Condo,0.0,7423.386373903119
+53.0,Male,Married,0.0,Master's,Unemployed,24006.0,429.0,70.0,No,Weekly,Basic,Rural,14.0,3.0,House,1.0,3837.7635110503265
+55.0,Female,Single,0.0,High School,Employed,185465.0,786.0,86.0,Yes,Rarely,Basic,Suburban,19.0,3.0,Condo,0.0,4698.334454415291
+57.0,Female,Married,1.0,PhD,Unemployed,,450.0,82.0,Yes,Rarely,Basic,Rural,10.0,16.0,Apartment,2.0,5606.499392760261
+37.0,Female,Married,3.0,Master's,Unemployed,,505.0,41.0,No,Rarely,Basic,Rural,15.0,8.0,Condo,,5223.968444924175
+79.0,Female,Single,0.0,Bachelor's,Employed,180703.0,478.0,42.0,No,Daily,Comprehensive,Suburban,4.0,18.0,Apartment,5.0,12253.259201653182
+52.0,Female,Married,2.0,Master's,Unemployed,115676.0,,86.0,No,Rarely,Comprehensive,Rural,2.0,,Condo,5.0,7423.366229878413
+65.0,Male,Single,3.0,PhD,Employed,141724.0,388.0,69.0,Yes,Daily,Premium,Suburban,3.0,3.0,Apartment,3.0,14779.551583449245
+79.0,Female,Single,,Master's,Unemployed,82901.0,733.0,74.0,No,Daily,Basic,Rural,7.0,4.0,Apartment,1.0,4363.62423600208
+42.0,Male,Single,2.0,High School,Self-Employed,127227.0,482.0,64.0,No,Daily,Premium,Suburban,16.0,12.0,Condo,1.0,8168.493833321843
+52.0,Male,Single,0.0,Bachelor's,Unemployed,137192.0,508.0,32.0,Yes,Weekly,Premium,Rural,10.0,15.0,Condo,1.0,11902.969246116418
+42.0,Female,Married,3.0,Bachelor's,Employed,192646.0,,34.0,No,Daily,Basic,Rural,19.0,4.0,Apartment,5.0,5281.920727343044
+46.0,Female,Single,5.0,Bachelor's,Unemployed,51417.0,429.0,40.0,Yes,Monthly,Comprehensive,Suburban,17.0,7.0,House,1.0,9740.805609465307
+35.0,Male,Single,4.0,PhD,Employed,108020.0,312.0,85.0,Yes,Rarely,Comprehensive,Rural,19.0,15.0,Condo,4.0,8319.887723376605
+63.0,Male,Married,0.0,PhD,Employed,103639.0,405.0,39.0,Yes,Weekly,Basic,Suburban,5.0,0.0,Apartment,0.0,7131.191194276576
+35.0,Male,Married,0.0,Bachelor's,Self-Employed,114881.0,674.0,63.0,Yes,Rarely,Basic,Suburban,20.0,5.0,Condo,5.0,6441.776003862576
+19.0,Female,Divorced,5.0,Master's,Self-Employed,190526.0,398.0,96.0,Yes,Daily,Comprehensive,Rural,13.0,10.0,Condo,4.0,7050.483779111278
+71.0,Female,Married,,Bachelor's,Employed,152659.0,491.0,60.0,Yes,Weekly,Basic,Urban,13.0,15.0,Condo,2.0,8899.614168321435
+52.0,Female,Married,3.0,Master's,Unemployed,141688.0,624.0,95.0,No,Monthly,Basic,Rural,11.0,4.0,Condo,4.0,4392.361151374535
+33.0,Female,Divorced,,Master's,Employed,135584.0,766.0,99.0,No,Daily,Basic,Urban,11.0,15.0,Condo,4.0,3878.8066239811433
+78.0,Female,Married,5.0,PhD,Employed,106567.0,666.0,70.0,No,Rarely,Comprehensive,Urban,16.0,6.0,House,2.0,9513.1791387778
+58.0,Male,Married,5.0,Master's,Unemployed,,617.0,92.0,Yes,Monthly,Premium,Rural,15.0,18.0,House,,11288.187367959603
+,Female,Married,3.0,Bachelor's,Unemployed,169888.0,443.0,61.0,No,Daily,Premium,Urban,17.0,0.0,House,0.0,10054.116933610047
+50.0,Male,Married,2.0,PhD,Unemployed,49432.0,683.0,49.0,Yes,Monthly,Basic,Suburban,18.0,8.0,Apartment,5.0,7625.864442357765
+21.0,Male,Divorced,0.0,High School,Unemployed,199689.0,515.0,86.0,No,Daily,Comprehensive,Suburban,19.0,17.0,House,3.0,6110.290583473786
+50.0,Male,Married,1.0,High School,Employed,92373.0,660.0,79.0,Yes,Weekly,Basic,Urban,4.0,12.0,House,2.0,5756.892576303123
+31.0,Female,Married,4.0,PhD,Employed,185289.0,623.0,54.0,No,Daily,Comprehensive,Suburban,5.0,14.0,Apartment,5.0,8605.388073577134
+38.0,Female,Divorced,0.0,Bachelor's,Self-Employed,40884.0,314.0,41.0,Yes,Weekly,Basic,Rural,7.0,2.0,House,1.0,5738.811934135441
+65.0,Female,Single,,High School,Employed,25454.0,516.0,68.0,No,Daily,Comprehensive,Suburban,2.0,9.0,Condo,0.0,6764.0949401825865
+,Male,Divorced,4.0,High School,Unemployed,94960.0,791.0,46.0,Yes,Daily,Comprehensive,Urban,1.0,,House,3.0,9949.672692169566
+73.0,Male,Single,1.0,Master's,Self-Employed,122421.0,,74.0,No,Rarely,Premium,Rural,12.0,12.0,House,0.0,7292.693266816231
+25.0,Male,Divorced,1.0,Master's,Unemployed,63618.0,482.0,40.0,Yes,Monthly,Basic,Suburban,10.0,15.0,House,0.0,4773.9733792607485
+24.0,Male,Divorced,2.0,Bachelor's,Employed,67111.0,569.0,99.0,No,Monthly,Premium,Rural,8.0,2.0,Condo,1.0,4244.378653305923
+20.0,Male,Married,4.0,PhD,Self-Employed,190685.0,766.0,52.0,No,Monthly,Premium,Urban,1.0,14.0,Condo,,8542.979574192079
+34.0,Male,Single,2.0,Bachelor's,Unemployed,140592.0,818.0,99.0,No,Daily,Comprehensive,Suburban,12.0,16.0,Condo,0.0,3642.402546523853
+50.0,Female,Married,,PhD,Self-Employed,79993.0,841.0,67.0,Yes,Daily,Basic,Rural,2.0,13.0,Condo,1.0,4310.346965837816
+65.0,Female,Single,5.0,High School,Self-Employed,148652.0,766.0,31.0,Yes,Daily,Comprehensive,Rural,10.0,6.0,Apartment,2.0,10567.164204787165
+29.0,Female,Divorced,5.0,Master's,Employed,159920.0,604.0,66.0,Yes,Weekly,Comprehensive,Suburban,17.0,19.0,Condo,1.0,7079.570526748524
+76.0,Female,Divorced,5.0,Bachelor's,Unemployed,98672.0,443.0,78.0,Yes,Weekly,Comprehensive,Rural,3.0,15.0,Condo,4.0,10824.41822244056
+68.0,Male,Single,4.0,Bachelor's,Self-Employed,86125.0,410.0,81.0,Yes,Rarely,Basic,Rural,7.0,20.0,Condo,5.0,7397.482882292781
+39.0,Male,Married,5.0,PhD,Self-Employed,,,62.0,No,Daily,Basic,Urban,12.0,7.0,Condo,1.0,4605.728088319911
+72.0,Female,Married,0.0,PhD,Unemployed,81602.0,799.0,51.0,Yes,Monthly,Comprehensive,Urban,8.0,3.0,Apartment,1.0,11108.339040718305
+39.0,Male,Married,2.0,Bachelor's,Self-Employed,62222.0,572.0,34.0,No,Monthly,Basic,Urban,20.0,19.0,House,1.0,4930.768073045826
+63.0,Female,Married,,PhD,Self-Employed,69223.0,472.0,47.0,No,Rarely,Comprehensive,Urban,12.0,14.0,House,0.0,8982.215397525286
+47.0,Female,Divorced,,Bachelor's,Self-Employed,85333.0,306.0,67.0,Yes,Monthly,Basic,Urban,3.0,4.0,Condo,3.0,7677.210177141159
+55.0,Female,Divorced,4.0,Bachelor's,Unemployed,142650.0,454.0,66.0,No,Rarely,Basic,Urban,17.0,12.0,Condo,1.0,5621.168707833543
+55.0,Male,Divorced,2.0,Bachelor's,Unemployed,69420.0,,93.0,Yes,Daily,Premium,Suburban,9.0,5.0,Condo,1.0,8259.361892738689
+62.0,Female,Divorced,1.0,High School,Unemployed,95504.0,845.0,39.0,Yes,Monthly,Comprehensive,Urban,10.0,4.0,House,4.0,13086.814457714268
+68.0,Female,Divorced,2.0,PhD,Unemployed,22462.0,847.0,71.0,Yes,Daily,Premium,Rural,6.0,16.0,House,4.0,11429.189849384384
+71.0,Female,Married,5.0,Master's,Employed,29460.0,817.0,77.0,No,Weekly,Premium,Suburban,1.0,6.0,Condo,2.0,8548.260051819922
+,Male,Married,1.0,Master's,Self-Employed,119319.0,514.0,73.0,Yes,Monthly,Comprehensive,Rural,12.0,5.0,House,2.0,6954.565660243716
+44.0,Male,Married,2.0,PhD,Unemployed,160347.0,433.0,45.0,Yes,Weekly,Comprehensive,Urban,,1.0,Apartment,4.0,13217.479532441926
+44.0,Female,Married,4.0,Bachelor's,Self-Employed,164341.0,584.0,83.0,Yes,Monthly,Basic,Urban,13.0,10.0,Condo,3.0,6755.346246094437
+51.0,Male,Divorced,4.0,Master's,Self-Employed,149593.0,425.0,64.0,No,Daily,Comprehensive,Rural,15.0,6.0,Condo,2.0,6909.855475845655
+38.0,Male,Divorced,4.0,Master's,Employed,142672.0,738.0,57.0,Yes,Rarely,Premium,Rural,11.0,20.0,Apartment,5.0,11464.724951322614
+47.0,Male,Divorced,3.0,PhD,Unemployed,92920.0,451.0,31.0,No,Daily,Premium,Rural,8.0,7.0,Apartment,5.0,11102.49970595237
+50.0,Male,Single,0.0,Master's,Unemployed,42553.0,630.0,42.0,No,Daily,Comprehensive,Suburban,5.0,4.0,House,3.0,7856.6151958959135
+45.0,Male,Married,4.0,Bachelor's,Self-Employed,175438.0,837.0,70.0,Yes,Daily,Premium,Urban,2.0,17.0,Apartment,4.0,13428.370738517542
+64.0,Male,Married,1.0,PhD,Unemployed,64036.0,682.0,88.0,No,Monthly,Basic,Rural,12.0,15.0,Condo,2.0,4143.5017761777435
+50.0,Male,Divorced,4.0,Bachelor's,Self-Employed,168441.0,414.0,98.0,No,Rarely,Premium,Urban,2.0,13.0,House,1.0,8633.03890362387
+22.0,Male,Married,3.0,Master's,Self-Employed,162867.0,781.0,82.0,Yes,Weekly,Basic,Rural,16.0,,Apartment,4.0,4604.368194716551
+77.0,Male,Married,5.0,Master's,Employed,90021.0,583.0,74.0,Yes,Daily,Premium,Urban,3.0,16.0,House,2.0,14976.6661046212
+78.0,Male,Divorced,1.0,Bachelor's,Employed,127205.0,374.0,49.0,Yes,Monthly,Basic,Suburban,10.0,4.0,House,3.0,8944.408076886239
+65.0,Female,Single,3.0,High School,Employed,181215.0,465.0,53.0,No,Weekly,Basic,Urban,19.0,13.0,House,5.0,7780.0910566571365
+36.0,Female,Single,5.0,Master's,Self-Employed,180497.0,488.0,90.0,Yes,Daily,Comprehensive,Rural,8.0,5.0,House,3.0,7716.131548517421
+21.0,Male,Single,1.0,High School,Unemployed,108209.0,377.0,87.0,No,Weekly,Basic,Urban,7.0,14.0,Apartment,2.0,3949.5846121283703
+52.0,Female,Divorced,2.0,Master's,Employed,95139.0,320.0,,No,Daily,Comprehensive,Suburban,1.0,6.0,Condo,3.0,8691.82416888783
+66.0,Female,Married,0.0,High School,Unemployed,25368.0,483.0,55.0,No,Weekly,Premium,Suburban,12.0,13.0,Condo,2.0,10176.96987906915
+,Male,Divorced,0.0,High School,Employed,155693.0,521.0,,No,Weekly,Premium,Urban,5.0,17.0,Apartment,2.0,10763.901511189531
+61.0,Male,Divorced,3.0,High School,Employed,78829.0,627.0,71.0,No,Rarely,Premium,Rural,,0.0,Condo,3.0,8864.846919149588
+,Male,Married,5.0,Bachelor's,Self-Employed,149036.0,478.0,76.0,Yes,Rarely,Basic,Suburban,4.0,5.0,House,0.0,5518.681945117333
+47.0,Female,Single,0.0,High School,Employed,34719.0,411.0,82.0,Yes,Daily,Premium,Suburban,17.0,2.0,House,1.0,9556.065743790443
+46.0,Female,Single,5.0,High School,Employed,49227.0,358.0,88.0,No,Monthly,Premium,Urban,2.0,4.0,House,4.0,9758.757007246057
+63.0,Male,Divorced,5.0,High School,Self-Employed,129430.0,626.0,67.0,No,Rarely,Comprehensive,Suburban,12.0,11.0,Apartment,5.0,9577.575872709696
+70.0,Male,Single,3.0,Master's,Unemployed,158638.0,490.0,98.0,Yes,Weekly,Comprehensive,Suburban,1.0,10.0,House,1.0,9280.81840730735
+23.0,Male,Divorced,3.0,High School,Employed,32306.0,499.0,82.0,Yes,Rarely,Premium,Rural,12.0,12.0,House,4.0,8313.779975400153
+52.0,Female,Divorced,3.0,Master's,Self-Employed,73822.0,611.0,44.0,No,Rarely,Premium,Rural,12.0,15.0,Apartment,4.0,9861.241837873795
+77.0,Female,Married,0.0,High School,Employed,44042.0,334.0,55.0,No,Daily,Basic,Rural,12.0,17.0,House,5.0,6490.717065997573
+58.0,Female,Married,3.0,High School,Self-Employed,166158.0,,77.0,Yes,Rarely,Basic,Urban,19.0,16.0,House,1.0,6503.755765564561
+54.0,Female,Married,0.0,Bachelor's,Unemployed,168459.0,686.0,48.0,Yes,Rarely,Premium,Suburban,17.0,16.0,Condo,5.0,15231.146423622238
+41.0,Male,Divorced,3.0,Master's,Unemployed,178114.0,536.0,38.0,No,Weekly,Comprehensive,Urban,20.0,10.0,Apartment,,8747.291615073915
+46.0,Male,Married,4.0,High School,Self-Employed,109424.0,818.0,93.0,Yes,Rarely,Premium,Suburban,,19.0,House,5.0,11283.110464446096
+66.0,Male,Single,5.0,Master's,Self-Employed,169395.0,582.0,83.0,Yes,Weekly,Basic,Suburban,13.0,9.0,House,3.0,7306.4541435548535
+63.0,Male,Single,3.0,Master's,Self-Employed,38019.0,300.0,80.0,No,Rarely,Comprehensive,Suburban,8.0,15.0,House,0.0,7089.973410125292
+70.0,Female,Divorced,1.0,PhD,Unemployed,95426.0,763.0,68.0,No,Rarely,Comprehensive,Rural,10.0,1.0,House,0.0,5906.479435593105
+48.0,Female,Divorced,5.0,Bachelor's,Employed,60863.0,529.0,33.0,No,Monthly,Basic,Urban,8.0,16.0,Condo,0.0,5191.425978929514
+52.0,Male,Married,5.0,Bachelor's,Unemployed,131023.0,471.0,32.0,Yes,Rarely,Premium,Urban,20.0,19.0,Condo,1.0,15254.32037879228
+77.0,Male,Divorced,3.0,Bachelor's,Self-Employed,161355.0,386.0,93.0,No,Weekly,Premium,Suburban,8.0,9.0,Condo,1.0,10003.997797929263
+,Female,Divorced,2.0,PhD,Self-Employed,169351.0,422.0,58.0,Yes,Weekly,Premium,Urban,9.0,12.0,Condo,2.0,14516.286066177818
+69.0,Male,Single,,PhD,Unemployed,66999.0,597.0,40.0,No,Daily,Basic,Rural,7.0,11.0,Apartment,0.0,4722.848427072253
+78.0,Female,Single,5.0,Bachelor's,Self-Employed,82780.0,783.0,87.0,No,Daily,Comprehensive,Urban,14.0,14.0,House,2.0,8078.95844100069
+38.0,Male,Married,1.0,PhD,Unemployed,42908.0,464.0,56.0,Yes,Monthly,Basic,Suburban,2.0,6.0,Condo,0.0,5053.161079696124
+,Male,Divorced,5.0,PhD,Self-Employed,146278.0,682.0,50.0,Yes,Weekly,Premium,Rural,11.0,20.0,House,1.0,10116.727416036814
+40.0,Male,Divorced,1.0,PhD,Employed,133002.0,508.0,68.0,No,Weekly,Basic,Rural,8.0,,Apartment,3.0,4691.032381479594
+50.0,Male,Single,,Bachelor's,Employed,189024.0,731.0,75.0,No,Weekly,Comprehensive,Suburban,,11.0,House,3.0,7227.811334688911
+20.0,Male,Divorced,4.0,Bachelor's,Self-Employed,120706.0,688.0,95.0,Yes,Monthly,Basic,Urban,15.0,11.0,House,3.0,3955.259982400977
+,Male,Single,5.0,Bachelor's,Unemployed,188735.0,523.0,65.0,No,Weekly,Premium,Suburban,3.0,1.0,Condo,5.0,10419.464620436556
+42.0,Male,Married,3.0,PhD,Employed,142019.0,,94.0,Yes,Daily,Comprehensive,Urban,14.0,4.0,Condo,3.0,9939.258827189306
+59.0,Female,Single,0.0,Bachelor's,Unemployed,129708.0,671.0,92.0,Yes,Monthly,Basic,Urban,15.0,1.0,Apartment,4.0,7224.845810233478
+48.0,Female,Divorced,4.0,PhD,Self-Employed,199001.0,745.0,,No,Daily,Basic,Rural,,19.0,House,0.0,3831.7189150671124
+71.0,Female,Married,3.0,High School,Unemployed,29343.0,415.0,60.0,Yes,Daily,Comprehensive,Suburban,19.0,12.0,Condo,3.0,11855.043657910845
+75.0,Female,Single,2.0,PhD,Employed,96173.0,569.0,57.0,Yes,Monthly,Comprehensive,Rural,12.0,2.0,Condo,4.0,11896.27273073358
+20.0,Female,Single,3.0,Master's,Unemployed,120260.0,746.0,30.0,Yes,Rarely,Premium,Suburban,20.0,10.0,Condo,4.0,11677.606832490223
+57.0,Male,Married,1.0,Bachelor's,Unemployed,190863.0,667.0,54.0,No,Rarely,Comprehensive,Suburban,4.0,15.0,Apartment,4.0,9395.236211632873
+63.0,Male,Married,1.0,Bachelor's,Self-Employed,180206.0,552.0,72.0,Yes,Daily,Premium,Rural,3.0,,House,2.0,12140.774940213745
+41.0,Female,Single,2.0,Master's,Self-Employed,198173.0,616.0,96.0,No,Rarely,Basic,Suburban,5.0,18.0,Condo,2.0,3454.934872884919
+67.0,Male,Divorced,0.0,PhD,Self-Employed,89443.0,714.0,92.0,No,Weekly,Premium,Suburban,3.0,10.0,House,4.0,9522.183619492826
+49.0,Female,Single,4.0,High School,Employed,77530.0,394.0,80.0,No,Monthly,Basic,Urban,15.0,8.0,Apartment,5.0,5814.295887143849
+,Female,Married,3.0,Master's,Employed,197871.0,323.0,31.0,Yes,Daily,Comprehensive,Suburban,19.0,13.0,House,3.0,14228.412371711585
+39.0,Male,Single,1.0,Master's,Self-Employed,155899.0,349.0,93.0,Yes,Weekly,Basic,Suburban,2.0,8.0,Condo,0.0,4738.719983186398
+40.0,Male,Married,0.0,PhD,Self-Employed,116143.0,801.0,98.0,No,Rarely,Comprehensive,Rural,12.0,6.0,House,5.0,5783.397739996976
+19.0,Male,Married,2.0,Bachelor's,Employed,164771.0,797.0,38.0,No,Weekly,Basic,Rural,5.0,15.0,House,1.0,3315.5771464971167
+44.0,Female,Divorced,5.0,PhD,Employed,134527.0,634.0,31.0,Yes,Rarely,Basic,Suburban,17.0,2.0,Apartment,2.0,6952.6690881839695
+59.0,Male,Married,1.0,Master's,Employed,156385.0,378.0,63.0,No,Daily,Basic,Urban,14.0,18.0,Apartment,3.0,6625.897849677787
+19.0,Female,Married,2.0,Master's,Employed,164670.0,326.0,89.0,No,Weekly,Basic,Urban,10.0,3.0,House,3.0,4232.965345747415
+43.0,Female,Divorced,3.0,Bachelor's,Self-Employed,131362.0,570.0,90.0,Yes,Monthly,Premium,Rural,3.0,6.0,House,1.0,8257.938004420965
+34.0,Female,Married,4.0,Bachelor's,Employed,48807.0,546.0,60.0,No,Daily,Basic,Suburban,4.0,11.0,House,1.0,3547.695274797507
+57.0,Male,Divorced,1.0,Bachelor's,Self-Employed,196298.0,686.0,39.0,Yes,Weekly,Premium,Suburban,6.0,17.0,Apartment,3.0,14935.642727328237
+50.0,Male,Divorced,,PhD,Unemployed,79550.0,660.0,65.0,Yes,Weekly,Comprehensive,Urban,16.0,4.0,Apartment,1.0,9080.882846451314
+,Female,Married,3.0,Bachelor's,Unemployed,23558.0,787.0,78.0,No,Rarely,Comprehensive,Urban,7.0,9.0,House,3.0,5145.416956371008
+60.0,Male,Married,5.0,Master's,Employed,70113.0,651.0,99.0,Yes,Daily,Premium,Urban,15.0,11.0,Apartment,5.0,13353.0156091179
+71.0,Male,Single,0.0,Master's,Unemployed,72999.0,555.0,78.0,Yes,Daily,Comprehensive,Rural,20.0,7.0,Condo,1.0,8691.83804427377
+65.0,Male,Divorced,4.0,High School,Unemployed,187415.0,521.0,32.0,Yes,Daily,Comprehensive,Suburban,11.0,18.0,Apartment,,14604.25952548114
+56.0,Female,Single,1.0,PhD,Unemployed,78219.0,300.0,34.0,No,Daily,Basic,Rural,1.0,14.0,Apartment,5.0,6182.244205846419
+46.0,Female,Married,4.0,High School,Employed,186258.0,845.0,90.0,No,Rarely,Basic,Suburban,,0.0,Apartment,,3558.15605851922
+59.0,Male,Single,1.0,Master's,Employed,188038.0,745.0,55.0,No,Monthly,Basic,Rural,13.0,2.0,Condo,3.0,5005.48690049632
+72.0,Female,Divorced,4.0,High School,Unemployed,184841.0,378.0,34.0,Yes,Daily,Premium,Suburban,14.0,17.0,Condo,4.0,18709.6634842339
+43.0,Male,Single,2.0,Master's,Self-Employed,73218.0,535.0,44.0,Yes,Rarely,Premium,Urban,9.0,17.0,Condo,3.0,14033.773282805336
+52.0,Male,Divorced,1.0,High School,Unemployed,39229.0,633.0,45.0,No,Monthly,Comprehensive,Urban,17.0,1.0,House,0.0,7065.275379250649
+67.0,Male,Married,4.0,Bachelor's,Employed,95209.0,648.0,30.0,No,Monthly,Basic,Urban,15.0,4.0,House,1.0,6305.172887493755
+42.0,Male,Married,0.0,High School,Employed,47877.0,397.0,45.0,Yes,Rarely,Premium,Rural,7.0,0.0,Condo,2.0,11159.773707805049
+41.0,Female,Divorced,2.0,Bachelor's,Employed,117137.0,381.0,66.0,No,Daily,Premium,Urban,12.0,9.0,House,1.0,9220.923732255536
+30.0,Female,Married,2.0,Bachelor's,Unemployed,58084.0,801.0,32.0,No,Monthly,Basic,Suburban,6.0,19.0,House,,3240.89669476333
+77.0,Female,Married,0.0,PhD,Self-Employed,101780.0,776.0,81.0,No,Daily,Premium,Rural,16.0,9.0,House,5.0,10472.912241092357
+75.0,Male,Married,4.0,Bachelor's,Employed,167878.0,849.0,76.0,No,Daily,Basic,Suburban,5.0,4.0,Condo,2.0,5432.423408959968
+24.0,Male,Married,3.0,Bachelor's,Employed,57034.0,313.0,42.0,No,Weekly,Comprehensive,Rural,9.0,17.0,Apartment,2.0,6192.606580369008
+74.0,Male,Divorced,0.0,High School,Unemployed,191389.0,691.0,84.0,Yes,Daily,Comprehensive,Suburban,14.0,,Condo,3.0,11417.29637725035
+53.0,Female,Single,4.0,Master's,Self-Employed,75468.0,646.0,50.0,No,Weekly,Comprehensive,Suburban,8.0,14.0,Condo,4.0,8505.414007382158
+62.0,Male,Single,0.0,PhD,Unemployed,170166.0,609.0,95.0,No,Monthly,Basic,Rural,14.0,19.0,House,3.0,4683.654336322391
+37.0,Female,Married,0.0,Bachelor's,Employed,30589.0,685.0,83.0,Yes,Rarely,Premium,Rural,12.0,7.0,House,2.0,7265.7240870287305
+18.0,Female,Single,1.0,PhD,Self-Employed,77221.0,508.0,56.0,Yes,Weekly,Comprehensive,Urban,10.0,16.0,Apartment,2.0,8131.936243641835
+25.0,Female,Single,4.0,High School,Self-Employed,21657.0,656.0,67.0,Yes,Rarely,Comprehensive,Urban,20.0,11.0,Apartment,4.0,8428.487771008111
+63.0,Female,Married,3.0,Bachelor's,Employed,118300.0,393.0,87.0,Yes,Monthly,Comprehensive,Suburban,20.0,20.0,Apartment,1.0,9077.587669112821
+,Female,Married,1.0,High School,Self-Employed,137229.0,392.0,91.0,No,Daily,Premium,Suburban,13.0,11.0,Apartment,4.0,8715.49449358611
+31.0,Female,Single,0.0,PhD,Self-Employed,59531.0,639.0,75.0,No,Monthly,Premium,Suburban,19.0,0.0,Condo,5.0,8328.701570245925
+29.0,Male,Divorced,5.0,High School,Unemployed,72227.0,744.0,40.0,No,Rarely,Basic,Rural,15.0,3.0,Apartment,3.0,3959.032658196431
+68.0,Male,Married,0.0,PhD,Employed,23164.0,,37.0,No,Monthly,Comprehensive,Rural,8.0,7.0,Condo,1.0,7918.392107871352
+40.0,Female,Divorced,,High School,Employed,,590.0,93.0,Yes,Daily,Premium,Urban,10.0,0.0,House,3.0,10748.488826214352
+32.0,Female,Single,4.0,PhD,Employed,61247.0,784.0,50.0,Yes,Monthly,Basic,Suburban,3.0,14.0,Apartment,4.0,5961.691463014766
+,Male,Married,4.0,Master's,Employed,170673.0,605.0,92.0,No,Daily,Comprehensive,Urban,3.0,17.0,House,1.0,6116.52580096694
+51.0,Female,Divorced,1.0,High School,Employed,70599.0,427.0,93.0,No,Weekly,Premium,Rural,5.0,0.0,House,4.0,7933.420715103512
+19.0,Female,Married,3.0,High School,Self-Employed,155624.0,572.0,49.0,No,Rarely,Premium,Rural,16.0,10.0,Condo,5.0,8378.668892180076
+49.0,Male,Single,1.0,Master's,Unemployed,160489.0,741.0,37.0,No,Daily,Basic,Rural,17.0,1.0,Apartment,0.0,4331.863970168008
+40.0,Female,Divorced,2.0,Master's,Employed,88207.0,802.0,87.0,Yes,Daily,Comprehensive,Urban,6.0,0.0,Condo,2.0,7307.004430687348
+39.0,Female,Single,0.0,High School,Unemployed,92055.0,429.0,75.0,No,Monthly,Comprehensive,Rural,20.0,11.0,House,1.0,5571.095624915395
+68.0,Female,Single,5.0,Master's,Unemployed,122266.0,431.0,60.0,Yes,Weekly,Premium,Suburban,20.0,15.0,Apartment,2.0,14415.710953450995
+42.0,Male,Married,0.0,Bachelor's,Self-Employed,98270.0,781.0,38.0,Yes,Daily,Comprehensive,Urban,16.0,9.0,House,0.0,8987.62722164724
+75.0,Male,Divorced,0.0,PhD,Employed,131426.0,689.0,44.0,Yes,Weekly,Basic,Rural,2.0,17.0,House,1.0,6749.582758389983
+79.0,Male,Single,,PhD,Self-Employed,154794.0,624.0,55.0,Yes,Weekly,Premium,Urban,20.0,14.0,Apartment,2.0,16806.927208119556
+78.0,Female,Single,5.0,PhD,Employed,90442.0,368.0,,No,Monthly,Premium,Urban,15.0,16.0,Apartment,2.0,14020.651331586721
+39.0,Female,Divorced,5.0,Bachelor's,Self-Employed,115632.0,,58.0,No,Daily,Basic,Rural,18.0,9.0,Apartment,1.0,3530.3998035905724
+75.0,Male,Single,5.0,Master's,Unemployed,191103.0,827.0,65.0,No,Monthly,Premium,Rural,1.0,2.0,Condo,2.0,9606.47224367346
+75.0,Female,Single,1.0,Master's,Employed,41438.0,464.0,66.0,No,Rarely,Comprehensive,Urban,19.0,20.0,Condo,2.0,9196.507889498358
+39.0,Female,Divorced,0.0,High School,Unemployed,78819.0,787.0,52.0,Yes,Rarely,Comprehensive,Urban,12.0,15.0,House,1.0,8022.810610826808
+66.0,Female,Divorced,1.0,Master's,Unemployed,63856.0,,70.0,Yes,Daily,Premium,Rural,8.0,,Apartment,2.0,10865.539714397699
+69.0,Female,Divorced,4.0,High School,Self-Employed,184648.0,564.0,57.0,Yes,Weekly,Basic,Suburban,6.0,2.0,House,2.0,7992.501670871543
+,Female,Divorced,4.0,Bachelor's,Employed,61938.0,641.0,77.0,No,Daily,Basic,Urban,12.0,8.0,House,3.0,5260.793355385258
+23.0,Male,Married,1.0,PhD,Unemployed,79807.0,577.0,67.0,Yes,Daily,Comprehensive,Urban,7.0,10.0,House,5.0,9745.496817560566
+32.0,Female,Divorced,,PhD,Self-Employed,69877.0,738.0,60.0,Yes,Rarely,Basic,Suburban,18.0,20.0,House,3.0,5295.031198106013
+71.0,Male,Married,0.0,PhD,Employed,63461.0,456.0,43.0,Yes,Rarely,Premium,Rural,14.0,12.0,House,0.0,12357.594625358468
+60.0,Female,Married,1.0,Master's,Employed,113474.0,721.0,58.0,Yes,Weekly,Premium,Rural,8.0,17.0,Apartment,3.0,11733.622431334927
+77.0,Male,Married,1.0,High School,Unemployed,191541.0,550.0,80.0,No,Weekly,Comprehensive,Suburban,20.0,3.0,Condo,3.0,9283.900731687449
+54.0,Female,Single,1.0,High School,Employed,,829.0,78.0,Yes,Daily,Comprehensive,Rural,14.0,7.0,Apartment,0.0,6231.3133731102125
+50.0,Male,Married,2.0,Bachelor's,Unemployed,40435.0,626.0,72.0,Yes,Monthly,Comprehensive,Rural,5.0,12.0,Apartment,2.0,7529.828891771235
+25.0,Female,Married,4.0,Master's,Employed,165263.0,396.0,34.0,No,Daily,Basic,Urban,9.0,9.0,Apartment,2.0,5864.024762176362
+70.0,Male,Single,5.0,Bachelor's,Self-Employed,104726.0,812.0,71.0,No,Weekly,Premium,Urban,8.0,1.0,Condo,3.0,11062.646065972303
+77.0,Female,Single,3.0,High School,Unemployed,178458.0,515.0,36.0,No,Monthly,Premium,Urban,2.0,7.0,Condo,0.0,13154.404935971641
+61.0,Male,Single,5.0,High School,Unemployed,,431.0,71.0,Yes,Rarely,Premium,Suburban,16.0,5.0,Condo,2.0,13663.268496984847
+61.0,Female,Divorced,3.0,PhD,Employed,74786.0,559.0,65.0,Yes,Weekly,Comprehensive,Rural,13.0,15.0,Apartment,4.0,10331.308308674917
+22.0,Male,Single,2.0,Master's,Employed,33704.0,424.0,56.0,Yes,Weekly,Premium,Rural,,17.0,Condo,1.0,7855.9322662400555
+56.0,Male,Single,1.0,High School,Unemployed,76635.0,381.0,87.0,Yes,Monthly,Basic,Urban,16.0,16.0,House,1.0,6180.9212010984
+21.0,Female,Married,2.0,PhD,Employed,153195.0,582.0,75.0,No,Weekly,Basic,Urban,7.0,5.0,Condo,5.0,4892.677787839332
+23.0,Female,Single,2.0,Master's,Self-Employed,110710.0,358.0,95.0,Yes,Weekly,Premium,Suburban,14.0,12.0,Apartment,1.0,7483.114627885936
+62.0,Male,Divorced,0.0,Bachelor's,Employed,82993.0,843.0,54.0,Yes,Weekly,Comprehensive,Rural,14.0,13.0,Apartment,,9218.105652079079
+49.0,Female,Single,4.0,Master's,Self-Employed,132752.0,460.0,56.0,No,Weekly,Premium,Suburban,12.0,20.0,House,1.0,9283.766519126242
+69.0,Male,Divorced,3.0,Master's,Self-Employed,176488.0,583.0,30.0,No,Weekly,Basic,Rural,1.0,9.0,Condo,1.0,5628.6774844140255
+47.0,Male,Single,1.0,High School,Self-Employed,,405.0,71.0,No,Weekly,Basic,Suburban,1.0,10.0,Condo,4.0,5693.164529631364
+64.0,Male,Single,3.0,High School,Self-Employed,98537.0,404.0,81.0,Yes,Weekly,Basic,Urban,,12.0,House,2.0,7409.156124867518
+52.0,Female,Single,5.0,Master's,Self-Employed,70258.0,,54.0,Yes,Weekly,Premium,Suburban,,11.0,Apartment,4.0,12936.799264521907
+72.0,Male,Single,3.0,High School,Employed,167580.0,527.0,83.0,Yes,Rarely,Basic,Suburban,15.0,8.0,Apartment,3.0,7858.717381480722
+57.0,Male,Divorced,5.0,High School,Self-Employed,105166.0,617.0,96.0,Yes,Weekly,Comprehensive,Urban,4.0,3.0,Condo,1.0,8476.611527448676
+69.0,Female,Divorced,4.0,High School,Employed,133710.0,763.0,35.0,Yes,Rarely,Premium,Rural,7.0,6.0,Condo,2.0,13314.20817493623
+33.0,Female,Married,5.0,PhD,Self-Employed,55699.0,771.0,87.0,No,Rarely,Premium,Rural,16.0,1.0,Condo,5.0,6869.765999044161
+30.0,Female,Divorced,,PhD,Unemployed,66335.0,355.0,99.0,No,Daily,Basic,Urban,3.0,6.0,Condo,5.0,4419.236533420673
+67.0,Female,Single,3.0,Master's,Self-Employed,66806.0,312.0,82.0,Yes,Daily,Basic,Suburban,7.0,,Condo,1.0,6918.0681649532125
+,Male,Married,5.0,High School,Unemployed,97853.0,739.0,95.0,Yes,Rarely,Comprehensive,Suburban,6.0,4.0,Apartment,1.0,8836.510952777133
+59.0,Male,Married,2.0,PhD,Self-Employed,55739.0,317.0,87.0,Yes,Rarely,Premium,Suburban,,14.0,Apartment,5.0,13715.020668023735
+47.0,Male,Married,4.0,Master's,Self-Employed,54785.0,412.0,31.0,Yes,Weekly,Basic,Rural,8.0,17.0,Apartment,5.0,7839.668705251792
+36.0,Male,Single,0.0,High School,Self-Employed,183052.0,528.0,51.0,Yes,Daily,Comprehensive,Suburban,6.0,3.0,Apartment,,10113.367899463425
+34.0,Female,Divorced,1.0,Bachelor's,Unemployed,105016.0,470.0,66.0,No,Monthly,Basic,Rural,10.0,18.0,House,1.0,3776.4002706552264
+73.0,Male,Single,3.0,High School,Unemployed,152681.0,594.0,49.0,No,Daily,Premium,Suburban,16.0,19.0,Apartment,5.0,13532.420997542527
+36.0,Male,Married,1.0,High School,Self-Employed,86253.0,488.0,53.0,No,Rarely,Basic,Urban,,6.0,House,0.0,4011.3502350322024
+45.0,Female,Single,0.0,PhD,Employed,111128.0,725.0,94.0,Yes,Rarely,Premium,Urban,13.0,7.0,Apartment,5.0,12462.450141721038
+75.0,Male,Single,1.0,Master's,Self-Employed,179213.0,378.0,94.0,Yes,Weekly,Basic,Rural,6.0,16.0,Condo,2.0,6701.922729625586
+72.0,Male,Divorced,0.0,Master's,Unemployed,181081.0,,30.0,No,Weekly,Premium,Rural,1.0,12.0,Condo,2.0,11966.451043877374
+43.0,Male,Divorced,5.0,PhD,Self-Employed,147581.0,798.0,32.0,No,Daily,Comprehensive,Urban,19.0,20.0,Condo,0.0,7472.547374077685
+54.0,Male,Married,2.0,High School,Unemployed,130966.0,370.0,75.0,Yes,Weekly,Premium,Urban,12.0,10.0,House,3.0,14369.92802058898
+43.0,Male,Single,3.0,Bachelor's,Unemployed,,547.0,84.0,No,Monthly,Comprehensive,Suburban,6.0,0.0,Apartment,1.0,6170.777854523703
+70.0,Male,Single,0.0,High School,Unemployed,119352.0,445.0,93.0,No,Monthly,Premium,Urban,,1.0,Apartment,1.0,9927.341113439936
+79.0,Female,Divorced,1.0,High School,Self-Employed,177005.0,595.0,74.0,Yes,Weekly,Comprehensive,Rural,13.0,16.0,House,5.0,12523.788161770986
+40.0,Female,Single,3.0,Bachelor's,Unemployed,97154.0,769.0,55.0,No,Monthly,Basic,Urban,7.0,4.0,House,2.0,4635.0816225299295
+26.0,Male,Single,2.0,PhD,Unemployed,159379.0,805.0,94.0,No,Monthly,Premium,Rural,13.0,,House,3.0,5515.54997844135
+29.0,Male,Single,5.0,Master's,Self-Employed,128297.0,492.0,53.0,No,Daily,Basic,Rural,8.0,6.0,House,3.0,4132.2051334852495
+70.0,Female,Divorced,3.0,PhD,Unemployed,58346.0,367.0,64.0,Yes,Monthly,Comprehensive,Suburban,17.0,20.0,House,3.0,11737.139192865165
+18.0,Male,Married,0.0,PhD,Self-Employed,132138.0,793.0,53.0,No,Rarely,Premium,Suburban,9.0,14.0,Condo,5.0,8299.446863333576
+75.0,Male,Married,2.0,High School,Unemployed,70772.0,351.0,57.0,No,Rarely,Premium,Suburban,20.0,18.0,Apartment,1.0,11248.079765073253
+75.0,Male,Single,1.0,Master's,Employed,60149.0,662.0,45.0,No,Daily,Basic,Suburban,13.0,15.0,House,3.0,5995.09434008911
+18.0,Female,Married,2.0,Master's,Employed,106700.0,773.0,88.0,Yes,Weekly,Premium,Urban,2.0,12.0,Condo,5.0,9808.05342714753
+64.0,Male,Divorced,2.0,PhD,Unemployed,178598.0,820.0,83.0,Yes,Daily,Premium,Suburban,4.0,4.0,House,5.0,14231.062524303548
+,Female,Divorced,4.0,Bachelor's,Employed,116758.0,730.0,45.0,No,Weekly,Basic,Urban,2.0,2.0,Condo,0.0,5180.444704589316
+49.0,Male,Married,2.0,PhD,Self-Employed,148447.0,597.0,44.0,Yes,Weekly,Premium,Suburban,4.0,2.0,House,4.0,14688.81055568799
+79.0,Female,Married,2.0,Bachelor's,Employed,25695.0,734.0,40.0,No,Weekly,Basic,Suburban,18.0,18.0,Apartment,3.0,6083.041248385144
+71.0,Female,Single,3.0,Master's,Unemployed,59169.0,497.0,,Yes,Weekly,Basic,Rural,5.0,,House,4.0,6407.055310528009
+65.0,Male,Married,1.0,PhD,Unemployed,67947.0,427.0,97.0,Yes,Weekly,Basic,Urban,19.0,15.0,House,1.0,6383.180545996162
+42.0,Female,Single,3.0,High School,Self-Employed,198296.0,831.0,72.0,No,Daily,Basic,Rural,10.0,16.0,Apartment,5.0,4710.971587700027
+57.0,Male,Single,3.0,PhD,Unemployed,65865.0,710.0,98.0,No,Weekly,Basic,Suburban,18.0,3.0,Apartment,3.0,4288.805550437162
+62.0,Female,Divorced,0.0,Master's,Self-Employed,176625.0,364.0,42.0,No,Monthly,Comprehensive,Urban,10.0,12.0,House,2.0,10892.622227178274
+70.0,Male,Divorced,,High School,Employed,,540.0,39.0,Yes,Monthly,Comprehensive,Suburban,5.0,7.0,Apartment,,11851.508470885723
+18.0,Male,Divorced,4.0,High School,Employed,80410.0,668.0,70.0,No,Weekly,Basic,Rural,17.0,18.0,Apartment,0.0,2283.244305706171
+33.0,Female,Divorced,4.0,Bachelor's,Self-Employed,123754.0,,79.0,Yes,Monthly,Comprehensive,Urban,13.0,4.0,Condo,0.0,5600.6969875558625
+78.0,Male,Married,0.0,High School,Self-Employed,110895.0,683.0,88.0,Yes,Rarely,Comprehensive,Rural,17.0,1.0,Apartment,4.0,10090.288783069056
+56.0,Male,Divorced,5.0,High School,Unemployed,175888.0,730.0,68.0,No,Daily,Premium,Suburban,9.0,14.0,Apartment,5.0,11063.224976361162
+22.0,Female,Married,1.0,PhD,Employed,70705.0,382.0,32.0,Yes,Daily,Basic,Suburban,12.0,1.0,House,4.0,6447.283364109109
+39.0,Male,Divorced,1.0,Master's,Self-Employed,135700.0,585.0,36.0,No,Weekly,Comprehensive,Suburban,14.0,10.0,House,2.0,7492.346282706566
+46.0,Male,Married,3.0,Bachelor's,Employed,93914.0,833.0,78.0,Yes,Weekly,Premium,Urban,14.0,12.0,Condo,2.0,10271.417137760649
+72.0,Female,Single,3.0,PhD,Self-Employed,21881.0,758.0,55.0,No,Rarely,Premium,Rural,8.0,9.0,House,0.0,7799.9531450597815
+20.0,Female,Married,5.0,High School,Employed,190639.0,511.0,62.0,Yes,Weekly,Basic,Rural,5.0,2.0,Apartment,3.0,5269.000573128732
+29.0,Male,Married,3.0,High School,Unemployed,67365.0,425.0,77.0,Yes,Monthly,Basic,Suburban,19.0,4.0,Apartment,0.0,3990.8394811897215
+43.0,Male,Divorced,1.0,Bachelor's,Employed,99211.0,712.0,31.0,No,Rarely,Premium,Rural,14.0,2.0,Apartment,0.0,7531.382378579161
+33.0,Female,Married,2.0,Master's,Employed,176078.0,798.0,61.0,Yes,Monthly,Basic,Urban,9.0,5.0,House,2.0,5813.064270184187
+68.0,Female,Single,4.0,Bachelor's,Employed,61198.0,724.0,33.0,No,Daily,Basic,Suburban,7.0,12.0,Apartment,4.0,6502.794645910695
+54.0,Male,Single,2.0,PhD,Employed,173903.0,842.0,,Yes,Monthly,Premium,Suburban,8.0,9.0,Apartment,2.0,12697.948812150344
+39.0,Female,Divorced,2.0,Bachelor's,Employed,120649.0,457.0,65.0,Yes,Daily,Premium,Suburban,14.0,,Condo,5.0,13826.053800132613
+74.0,Male,Single,1.0,High School,Unemployed,167531.0,411.0,61.0,Yes,Monthly,Basic,Urban,14.0,7.0,Condo,2.0,8975.460758379759
+46.0,Male,Married,2.0,PhD,Self-Employed,183515.0,701.0,,No,Daily,Comprehensive,Suburban,11.0,17.0,Condo,2.0,7415.526398301786
+31.0,Male,Single,5.0,High School,Employed,193388.0,421.0,30.0,No,Weekly,Basic,Suburban,14.0,2.0,House,0.0,4993.777507443639
+,Male,Divorced,0.0,Master's,Unemployed,156949.0,572.0,89.0,No,Monthly,Comprehensive,Suburban,8.0,16.0,Apartment,3.0,6516.975278433956
+22.0,Male,Married,3.0,High School,Employed,59553.0,593.0,85.0,No,Daily,Premium,Suburban,3.0,7.0,Apartment,0.0,4767.212725005426
+64.0,Female,Divorced,0.0,High School,Employed,155994.0,697.0,64.0,No,Monthly,Comprehensive,Rural,18.0,9.0,Apartment,1.0,7057.053750518389
+66.0,Female,Married,4.0,Bachelor's,Self-Employed,142778.0,770.0,,Yes,Rarely,Premium,Suburban,3.0,1.0,Condo,2.0,12827.787802927012
+47.0,Female,Single,3.0,High School,Employed,137018.0,506.0,83.0,Yes,Weekly,Basic,Urban,13.0,11.0,Apartment,2.0,6461.331328320689
+63.0,Female,Divorced,2.0,PhD,Unemployed,155758.0,409.0,65.0,No,Daily,Basic,Suburban,12.0,5.0,Apartment,1.0,5335.741313227178
+79.0,Male,Divorced,4.0,PhD,Unemployed,52766.0,739.0,84.0,Yes,Rarely,Premium,Suburban,15.0,1.0,Apartment,2.0,12138.898893616377
+69.0,Male,Married,3.0,Master's,Self-Employed,52006.0,577.0,87.0,Yes,Monthly,Premium,Rural,18.0,20.0,Apartment,2.0,10593.132949364423
+22.0,Male,Divorced,5.0,PhD,Employed,51422.0,781.0,94.0,Yes,Rarely,Premium,Suburban,5.0,2.0,Apartment,5.0,8449.04440717489
+29.0,Male,Married,5.0,Bachelor's,Unemployed,136590.0,413.0,98.0,Yes,Monthly,Basic,Rural,7.0,16.0,House,2.0,4041.090611565344
+33.0,Female,Married,5.0,Master's,Employed,32205.0,776.0,80.0,No,Weekly,Basic,Urban,11.0,6.0,Apartment,1.0,2997.452358843279
+43.0,Male,Married,5.0,PhD,Employed,174599.0,620.0,51.0,Yes,Rarely,Comprehensive,Rural,11.0,20.0,House,0.0,7800.638332473221
+43.0,Male,Married,2.0,Bachelor's,Employed,169515.0,478.0,82.0,No,Weekly,Premium,Suburban,15.0,4.0,Apartment,2.0,8561.7537643945
+65.0,Female,Single,0.0,PhD,Self-Employed,167596.0,518.0,65.0,No,Daily,Comprehensive,Urban,10.0,0.0,House,,9767.187325639183
+38.0,Female,Married,3.0,PhD,Employed,136477.0,827.0,97.0,Yes,Monthly,Basic,Suburban,15.0,7.0,Apartment,1.0,4159.854980338392
+56.0,Female,Divorced,2.0,High School,Unemployed,48202.0,791.0,65.0,No,Monthly,Comprehensive,Rural,13.0,11.0,Apartment,4.0,6739.0679345680355
+53.0,Female,Single,5.0,PhD,Employed,197214.0,360.0,,Yes,Weekly,Comprehensive,Urban,14.0,13.0,Apartment,5.0,13468.030967937284
+50.0,Male,Divorced,0.0,PhD,Unemployed,81692.0,353.0,82.0,Yes,Weekly,Basic,Urban,17.0,15.0,Apartment,1.0,6259.315169978136
+79.0,Male,Single,4.0,Bachelor's,Employed,40855.0,837.0,79.0,Yes,Daily,Basic,Rural,13.0,9.0,Condo,0.0,5138.482184401658
+47.0,Female,Married,4.0,Bachelor's,Unemployed,45095.0,364.0,70.0,No,Rarely,Premium,Rural,10.0,14.0,Apartment,1.0,7161.800966751747
+54.0,Male,Single,4.0,High School,Unemployed,189796.0,470.0,47.0,No,Monthly,Comprehensive,Urban,1.0,20.0,House,4.0,10411.883556237994
+40.0,Male,Single,5.0,PhD,Employed,69241.0,572.0,51.0,No,Monthly,Basic,Urban,1.0,14.0,Condo,5.0,6087.2601004181615
+75.0,Male,Divorced,4.0,High School,Employed,123119.0,834.0,95.0,Yes,Daily,Basic,Rural,15.0,9.0,Condo,3.0,5891.092892787742
+27.0,Female,Divorced,1.0,PhD,Unemployed,72003.0,690.0,50.0,Yes,Daily,Comprehensive,Suburban,16.0,20.0,Apartment,4.0,8669.219018462942
+71.0,Male,Married,3.0,Master's,Self-Employed,,626.0,73.0,Yes,Weekly,Basic,Urban,12.0,6.0,House,1.0,7427.608278312423
+22.0,Female,Single,3.0,Master's,Employed,114283.0,407.0,76.0,No,Weekly,Premium,Rural,6.0,2.0,House,4.0,7316.704362362711
+53.0,Male,Single,5.0,High School,Self-Employed,167044.0,461.0,68.0,Yes,Rarely,Premium,Suburban,,1.0,Condo,1.0,11875.96446761151
+51.0,Male,Single,1.0,High School,Employed,143805.0,751.0,58.0,Yes,Daily,Comprehensive,Urban,12.0,5.0,House,3.0,11231.589168876817
+69.0,Male,Married,2.0,High School,Employed,113846.0,505.0,83.0,No,Rarely,Premium,Urban,15.0,20.0,Apartment,3.0,11621.55350022254
+48.0,Female,Married,2.0,Bachelor's,Employed,42927.0,315.0,46.0,No,Daily,Basic,Rural,4.0,8.0,Apartment,0.0,4072.0676121728206
+27.0,Male,Married,4.0,Bachelor's,Employed,140589.0,626.0,89.0,No,Monthly,Basic,Suburban,4.0,9.0,Apartment,3.0,3911.434386481876
+75.0,Female,Married,0.0,Bachelor's,Self-Employed,135657.0,301.0,60.0,Yes,Daily,Basic,Urban,2.0,3.0,Apartment,2.0,9687.918832646072
+36.0,Female,Married,2.0,High School,Employed,86630.0,309.0,78.0,Yes,Daily,Basic,Suburban,12.0,2.0,Apartment,4.0,6152.14990090527
+75.0,Female,Divorced,0.0,PhD,Unemployed,124428.0,733.0,,Yes,Monthly,Comprehensive,Suburban,7.0,8.0,Condo,4.0,13732.03960672468
+49.0,Male,Single,3.0,Master's,Unemployed,,424.0,77.0,No,Daily,Premium,Urban,,16.0,Apartment,1.0,9393.490710179798
+18.0,Male,Single,0.0,High School,Self-Employed,146244.0,380.0,43.0,No,Rarely,Premium,Suburban,,,Apartment,3.0,9502.882046059785
+73.0,Male,Single,3.0,Bachelor's,Employed,89518.0,784.0,88.0,No,Weekly,Basic,Urban,9.0,9.0,Condo,0.0,4376.083743438526
+22.0,Male,Single,1.0,Bachelor's,Unemployed,196355.0,449.0,87.0,No,Weekly,Comprehensive,Suburban,8.0,12.0,Condo,0.0,4400.6131022810505
+62.0,Female,Single,1.0,High School,Self-Employed,101326.0,639.0,87.0,Yes,Rarely,Basic,Urban,14.0,,Condo,0.0,5494.828890543052
+21.0,Female,Single,5.0,High School,Employed,163277.0,428.0,80.0,Yes,Monthly,Basic,Rural,1.0,0.0,House,5.0,5729.605078678391
+,Female,Single,5.0,Bachelor's,Unemployed,140243.0,737.0,31.0,Yes,Daily,Comprehensive,Urban,12.0,18.0,House,2.0,10149.654684353214
+41.0,Male,Single,4.0,PhD,Unemployed,32748.0,800.0,70.0,Yes,Rarely,Comprehensive,Urban,2.0,,Apartment,3.0,8347.750999456477
+33.0,Female,Divorced,2.0,Bachelor's,Self-Employed,172169.0,357.0,45.0,Yes,Weekly,Basic,Urban,13.0,5.0,Apartment,0.0,6563.384145739033
+,Male,Single,4.0,Bachelor's,Employed,154164.0,497.0,33.0,Yes,Weekly,Premium,Suburban,4.0,12.0,Apartment,2.0,16513.443262316796
+19.0,Female,Divorced,3.0,High School,Employed,73311.0,510.0,41.0,Yes,Rarely,Basic,Rural,20.0,18.0,House,4.0,5752.099574422569
+66.0,Male,Married,4.0,PhD,Unemployed,42692.0,344.0,58.0,Yes,Weekly,Premium,Suburban,18.0,12.0,Apartment,1.0,13152.532207401446
+45.0,Male,Single,,Bachelor's,Unemployed,144954.0,396.0,36.0,No,Rarely,Premium,Suburban,19.0,20.0,Apartment,3.0,11378.941421192054
+49.0,Female,Married,3.0,Bachelor's,Unemployed,174934.0,578.0,43.0,No,Weekly,Comprehensive,Urban,16.0,3.0,House,3.0,9652.790276884141
+44.0,Female,Married,5.0,Master's,Employed,150035.0,834.0,41.0,Yes,Rarely,Comprehensive,Suburban,14.0,1.0,Condo,5.0,11130.53161529472
+37.0,Female,Married,1.0,High School,Self-Employed,99507.0,709.0,34.0,No,Daily,Basic,Urban,8.0,14.0,House,4.0,5908.469865527265
+41.0,Female,Divorced,5.0,Master's,Self-Employed,100152.0,760.0,61.0,Yes,Daily,Premium,Rural,12.0,11.0,Apartment,3.0,9929.65051458387
+29.0,Male,Married,2.0,Master's,Employed,24926.0,690.0,72.0,Yes,Daily,Premium,Suburban,9.0,6.0,House,5.0,10216.263804061735
+67.0,Female,Married,3.0,Bachelor's,Self-Employed,23969.0,343.0,98.0,No,Daily,Basic,Suburban,6.0,19.0,Condo,5.0,5362.185202675208
+52.0,Female,Married,3.0,High School,Unemployed,55733.0,326.0,74.0,Yes,Weekly,Basic,Suburban,18.0,17.0,Condo,5.0,7319.933506447776
+77.0,Female,Single,0.0,PhD,Self-Employed,89855.0,396.0,38.0,Yes,Monthly,Basic,Urban,2.0,12.0,Condo,3.0,10079.08634042097
+50.0,Male,Single,2.0,Bachelor's,Self-Employed,61743.0,847.0,78.0,Yes,Rarely,Comprehensive,Urban,8.0,,Condo,3.0,9152.161559181055
+50.0,Male,Divorced,1.0,PhD,Self-Employed,150193.0,518.0,62.0,Yes,Monthly,Basic,Suburban,14.0,3.0,Condo,3.0,7413.620419224644
+78.0,Female,Divorced,3.0,PhD,Unemployed,190948.0,484.0,47.0,Yes,Weekly,Basic,Suburban,6.0,13.0,Condo,2.0,8831.043483935977
+68.0,Male,Single,3.0,High School,Employed,127445.0,368.0,38.0,Yes,Weekly,Premium,Rural,10.0,,Apartment,5.0,16373.325020857506
+60.0,Female,Divorced,0.0,Master's,Unemployed,40323.0,429.0,91.0,Yes,Monthly,Basic,Rural,8.0,12.0,Apartment,2.0,5226.641740293239
+54.0,Male,Single,,High School,Employed,36428.0,633.0,86.0,No,Monthly,Premium,Rural,17.0,2.0,House,1.0,6117.0059527612575
+29.0,Male,Married,1.0,PhD,Employed,54578.0,,58.0,No,Weekly,Premium,Rural,12.0,17.0,Apartment,3.0,7618.850608262286
+20.0,Male,Married,5.0,Bachelor's,Employed,106486.0,846.0,54.0,Yes,Weekly,Comprehensive,Rural,17.0,13.0,Condo,4.0,7546.406045875846
+18.0,Male,Divorced,2.0,PhD,Self-Employed,84140.0,378.0,44.0,No,Rarely,Basic,Urban,13.0,14.0,Apartment,0.0,3816.8290231290002
+50.0,Female,Single,3.0,Bachelor's,Self-Employed,127325.0,712.0,35.0,Yes,Daily,Basic,Rural,19.0,2.0,House,1.0,5670.208691167614
+57.0,Female,Single,3.0,Bachelor's,Employed,103829.0,845.0,71.0,Yes,Daily,Premium,Rural,12.0,0.0,Condo,0.0,8623.796140998058
+27.0,Female,Divorced,5.0,High School,Employed,26364.0,468.0,58.0,Yes,Rarely,Comprehensive,Suburban,,16.0,Apartment,0.0,6390.689509635793
+,Male,Single,1.0,PhD,Self-Employed,148867.0,814.0,33.0,Yes,Monthly,Comprehensive,Urban,5.0,2.0,Apartment,,13067.976665179098
+61.0,Female,Married,4.0,Master's,Unemployed,186421.0,613.0,86.0,No,Weekly,Basic,Rural,16.0,13.0,House,4.0,5376.430385634191
+46.0,Female,Divorced,3.0,PhD,Employed,151763.0,331.0,78.0,No,Monthly,Premium,Rural,6.0,2.0,Condo,0.0,6890.902985872927
+30.0,Female,Divorced,1.0,PhD,Unemployed,115598.0,586.0,73.0,No,Daily,Basic,Rural,11.0,,House,,4016.6294869482194
+29.0,Male,Single,5.0,Master's,Self-Employed,196968.0,342.0,43.0,No,Daily,Basic,Suburban,17.0,14.0,Condo,0.0,4536.329136763879
+48.0,Male,Divorced,,High School,Employed,77062.0,300.0,32.0,Yes,Monthly,Basic,Suburban,14.0,17.0,Condo,1.0,7163.003102172099
+63.0,Male,Single,4.0,PhD,Unemployed,164933.0,569.0,91.0,No,Daily,Basic,Suburban,6.0,13.0,Apartment,4.0,5494.342346651869
+19.0,Female,Single,2.0,PhD,Unemployed,108302.0,479.0,93.0,Yes,Weekly,Premium,Rural,11.0,20.0,House,4.0,8553.760635741677
+78.0,Female,Single,3.0,Bachelor's,Unemployed,83928.0,817.0,74.0,Yes,Rarely,Comprehensive,Suburban,12.0,2.0,House,0.0,8854.349988362816
+68.0,Female,Single,1.0,PhD,Self-Employed,61347.0,402.0,87.0,No,Monthly,Basic,Rural,13.0,,House,4.0,5032.624143545558
+67.0,Male,Single,0.0,Master's,Self-Employed,23121.0,309.0,49.0,Yes,Weekly,Basic,Urban,4.0,7.0,Condo,1.0,8064.448836976227
+52.0,Male,Divorced,2.0,Bachelor's,Unemployed,103793.0,389.0,87.0,No,Weekly,Basic,Rural,7.0,3.0,House,1.0,4068.4721824026706
+40.0,Female,Married,1.0,High School,Unemployed,,525.0,86.0,No,Daily,Basic,Suburban,2.0,3.0,Condo,1.0,3263.570451363321
+34.0,Male,Married,1.0,Bachelor's,Self-Employed,45491.0,425.0,97.0,No,Weekly,Comprehensive,Urban,6.0,18.0,House,5.0,7121.643269967004
+43.0,Male,Divorced,2.0,Master's,Unemployed,79222.0,508.0,81.0,No,Monthly,Comprehensive,Rural,6.0,10.0,House,,6193.975728046902
+25.0,Male,Divorced,0.0,Master's,Unemployed,,396.0,66.0,No,Weekly,Comprehensive,Urban,,0.0,Apartment,0.0,6281.885486618924
+46.0,Male,Married,5.0,Bachelor's,Self-Employed,23748.0,373.0,37.0,Yes,Rarely,Comprehensive,Urban,20.0,7.0,House,4.0,12763.787460024569
+43.0,Female,Married,0.0,High School,Unemployed,46553.0,490.0,73.0,No,Weekly,Basic,Urban,8.0,14.0,Apartment,1.0,4762.9114440509
+27.0,Male,Married,4.0,Bachelor's,Unemployed,136547.0,355.0,34.0,No,Weekly,Premium,Rural,8.0,0.0,Apartment,0.0,7892.322459339125
+43.0,Male,Married,3.0,High School,Unemployed,80380.0,331.0,98.0,Yes,Rarely,Comprehensive,Suburban,8.0,6.0,Condo,0.0,6270.620763788052
+79.0,Male,Married,2.0,Bachelor's,Self-Employed,64331.0,826.0,60.0,No,Weekly,Comprehensive,Rural,8.0,20.0,House,3.0,7512.835156062485
+51.0,Male,Single,,Master's,Unemployed,140617.0,583.0,74.0,No,Weekly,Basic,Suburban,1.0,19.0,House,5.0,5852.810889573072
+68.0,Female,Divorced,2.0,PhD,Self-Employed,59560.0,793.0,38.0,Yes,Daily,Basic,Rural,2.0,19.0,House,,7594.277928928233
+58.0,Female,Single,2.0,PhD,Self-Employed,73865.0,486.0,61.0,Yes,Monthly,Basic,Rural,12.0,10.0,Apartment,5.0,7178.464403028321
+24.0,Male,Married,0.0,High School,Employed,197758.0,797.0,,No,Daily,Basic,Rural,15.0,13.0,House,4.0,3920.6096416552346
+21.0,Male,Married,3.0,High School,Employed,95910.0,741.0,96.0,Yes,Monthly,Premium,Suburban,4.0,15.0,Condo,1.0,5330.164381218862
+75.0,Male,Married,4.0,High School,Unemployed,155747.0,429.0,59.0,No,Rarely,Premium,Rural,3.0,13.0,Condo,1.0,9959.889865231258
+70.0,Male,Single,1.0,Master's,Self-Employed,97986.0,591.0,58.0,Yes,Rarely,Comprehensive,Urban,14.0,11.0,House,0.0,11068.83643918237
+67.0,Male,Single,1.0,Bachelor's,Employed,30068.0,413.0,32.0,No,Rarely,Premium,Rural,8.0,16.0,Apartment,4.0,11485.600007839084
+62.0,Male,Married,2.0,Master's,Unemployed,74460.0,498.0,86.0,No,Monthly,Comprehensive,Urban,13.0,13.0,Condo,4.0,8965.476151402196
+28.0,Female,Single,3.0,PhD,Employed,120766.0,312.0,59.0,No,Monthly,Comprehensive,Suburban,19.0,9.0,Condo,,7866.634851621402
+46.0,Male,Single,5.0,High School,Employed,66418.0,570.0,38.0,Yes,Monthly,Premium,Suburban,5.0,13.0,Apartment,1.0,11904.529707135123
+73.0,Female,Married,0.0,Bachelor's,Self-Employed,46206.0,514.0,55.0,No,Rarely,Comprehensive,Rural,13.0,17.0,Condo,2.0,7950.828045577929
+53.0,Female,Single,3.0,PhD,Self-Employed,148180.0,743.0,31.0,Yes,Monthly,Basic,Rural,20.0,8.0,Apartment,,5557.568559950009
+42.0,Male,Divorced,3.0,PhD,Employed,20287.0,811.0,91.0,No,Weekly,Comprehensive,Rural,1.0,16.0,Condo,4.0,5127.195564296742
+38.0,Female,Divorced,0.0,PhD,Employed,42337.0,746.0,,No,Daily,Basic,Urban,16.0,5.0,Apartment,3.0,5377.471471905517
+78.0,Female,Divorced,2.0,Master's,Self-Employed,171738.0,373.0,75.0,No,Rarely,Premium,Suburban,2.0,7.0,Condo,3.0,12229.004016031453
+74.0,Female,Divorced,3.0,High School,Unemployed,152233.0,,97.0,No,Daily,Premium,Urban,7.0,12.0,House,2.0,9202.536785619692
+53.0,Female,Married,1.0,PhD,Self-Employed,120667.0,400.0,54.0,No,Weekly,Comprehensive,Urban,6.0,17.0,Condo,1.0,8425.936347649726
+27.0,Female,Married,0.0,High School,Employed,110071.0,475.0,80.0,Yes,Monthly,Basic,Rural,5.0,4.0,Condo,1.0,3992.0185091552244
+54.0,Female,Married,5.0,Master's,Unemployed,118064.0,726.0,42.0,Yes,Daily,Comprehensive,Rural,4.0,5.0,House,1.0,8634.848289888574
+26.0,Male,Divorced,,PhD,Employed,189823.0,416.0,73.0,Yes,Weekly,Premium,Urban,2.0,20.0,House,5.0,13849.07266764821
+41.0,Female,Divorced,2.0,Master's,Unemployed,126511.0,465.0,64.0,No,Weekly,Comprehensive,Urban,10.0,18.0,House,3.0,8592.323957198096
+52.0,Female,Single,0.0,Master's,Employed,165830.0,340.0,84.0,No,Daily,Comprehensive,Rural,5.0,3.0,House,1.0,6333.9803977707425
+66.0,Female,Single,4.0,High School,Unemployed,23178.0,728.0,38.0,Yes,Rarely,Basic,Rural,18.0,6.0,Apartment,3.0,6385.257143834407
+52.0,Male,Divorced,4.0,PhD,Unemployed,51831.0,643.0,31.0,No,Daily,Premium,Urban,10.0,3.0,Apartment,2.0,11006.735677869896
+65.0,Female,Divorced,5.0,Master's,Employed,153248.0,723.0,,No,Rarely,Comprehensive,Rural,15.0,,Condo,0.0,5549.738017912286
+53.0,Male,Divorced,3.0,PhD,Unemployed,123306.0,665.0,70.0,No,Monthly,Basic,Rural,9.0,11.0,Condo,,4937.230668607619
+35.0,Female,Divorced,5.0,High School,Self-Employed,184726.0,419.0,73.0,Yes,Rarely,Comprehensive,Urban,11.0,13.0,Condo,4.0,11293.450799148202
+66.0,Male,Single,3.0,Master's,Employed,177699.0,,93.0,Yes,Monthly,Basic,Urban,17.0,12.0,Apartment,2.0,7020.568485495792
+56.0,Male,Divorced,3.0,High School,Self-Employed,132025.0,429.0,60.0,Yes,Daily,Basic,Suburban,9.0,9.0,Condo,3.0,7514.661780188485
+49.0,Female,Single,0.0,PhD,Employed,195982.0,651.0,76.0,Yes,Monthly,Comprehensive,Urban,16.0,17.0,Condo,2.0,9826.06177973132
+41.0,Female,Divorced,0.0,PhD,Unemployed,110417.0,,,Yes,Weekly,Premium,Rural,6.0,15.0,Apartment,4.0,12731.451631508493
+40.0,Male,Divorced,2.0,High School,Unemployed,186494.0,636.0,98.0,No,Monthly,Premium,Urban,11.0,4.0,Condo,5.0,9992.901472099058
+79.0,Female,Divorced,,Bachelor's,Unemployed,31984.0,572.0,87.0,No,Rarely,Basic,Urban,17.0,7.0,Apartment,0.0,4900.873614557101
+49.0,Male,Single,4.0,Master's,Employed,109312.0,416.0,73.0,No,Rarely,Premium,Urban,4.0,13.0,Apartment,4.0,11216.513298525662
+54.0,Male,Single,1.0,PhD,Self-Employed,103291.0,667.0,85.0,No,Rarely,Basic,Suburban,15.0,4.0,House,5.0,5271.518015707063
+29.0,Male,Married,2.0,PhD,Self-Employed,27135.0,393.0,72.0,Yes,Monthly,Premium,Suburban,,7.0,House,,9940.419743794508
+66.0,Male,Divorced,0.0,Master's,Employed,20320.0,467.0,63.0,Yes,Rarely,Comprehensive,Rural,20.0,5.0,Apartment,4.0,10567.100784141356
+72.0,Male,Married,5.0,High School,Employed,172756.0,640.0,59.0,No,Rarely,Premium,Suburban,1.0,15.0,Apartment,2.0,11335.633144621002
+30.0,Female,Married,2.0,High School,Self-Employed,108774.0,451.0,99.0,Yes,Weekly,Basic,Urban,9.0,3.0,House,1.0,4656.55845665697
+40.0,Male,Single,2.0,High School,Self-Employed,172961.0,573.0,84.0,No,Monthly,Basic,Suburban,12.0,11.0,Condo,2.0,4232.567397105877
+42.0,Male,Single,2.0,Bachelor's,Self-Employed,118071.0,795.0,96.0,No,Weekly,Premium,Urban,4.0,10.0,Condo,3.0,7373.940850977997
+52.0,Female,Married,2.0,Bachelor's,Self-Employed,199971.0,400.0,42.0,No,Rarely,Comprehensive,Suburban,13.0,2.0,Condo,0.0,8319.415719924868
+58.0,Male,Divorced,1.0,PhD,Employed,161842.0,381.0,32.0,No,Rarely,Basic,Suburban,7.0,11.0,Apartment,4.0,7339.7328918409185
+47.0,Female,Single,5.0,High School,Employed,190393.0,828.0,55.0,Yes,Rarely,Basic,Suburban,8.0,4.0,House,0.0,5948.142603436965
+34.0,Female,Divorced,5.0,Master's,Unemployed,129863.0,372.0,86.0,No,Monthly,Basic,Urban,13.0,5.0,Condo,3.0,5108.618376155365
+66.0,Female,Divorced,5.0,PhD,Self-Employed,61777.0,313.0,53.0,Yes,Daily,Basic,Suburban,11.0,18.0,House,4.0,8474.540717947884
+79.0,Male,Married,3.0,Master's,Unemployed,66250.0,732.0,82.0,No,Rarely,Basic,Urban,9.0,17.0,House,5.0,6731.816805497718
+37.0,Male,Married,4.0,PhD,Employed,93034.0,456.0,99.0,No,Rarely,Comprehensive,Urban,16.0,15.0,Apartment,5.0,7447.659050691949
+65.0,Male,Married,5.0,Bachelor's,Employed,124940.0,431.0,72.0,No,Rarely,Premium,Rural,10.0,10.0,Condo,2.0,9237.339614979368
+42.0,Female,Married,2.0,PhD,Unemployed,60130.0,637.0,89.0,No,Rarely,Comprehensive,Suburban,11.0,4.0,House,2.0,5385.282921832673
+39.0,Male,Single,2.0,Bachelor's,Self-Employed,153609.0,703.0,87.0,Yes,Monthly,Comprehensive,Rural,12.0,8.0,Apartment,3.0,7490.619800426613
+30.0,Female,Single,,PhD,Self-Employed,35216.0,675.0,78.0,No,Daily,Basic,Rural,14.0,2.0,Apartment,5.0,3452.1433430977345
+76.0,Male,Married,5.0,High School,Self-Employed,104149.0,406.0,71.0,Yes,Daily,Comprehensive,Urban,19.0,7.0,Apartment,4.0,13920.017293522096
+36.0,Female,Single,,Master's,Self-Employed,23009.0,564.0,95.0,No,Daily,Basic,Suburban,,5.0,Condo,,4393.5346045133265
+66.0,Male,Married,,High School,Unemployed,109904.0,504.0,40.0,No,Rarely,Comprehensive,Urban,18.0,3.0,Condo,,10443.540034814792
+53.0,Male,Divorced,0.0,PhD,Unemployed,180399.0,378.0,47.0,No,Rarely,Basic,Urban,17.0,11.0,Apartment,3.0,6763.776458336477
+29.0,Male,Divorced,0.0,PhD,Employed,165281.0,454.0,81.0,Yes,Daily,Basic,Suburban,3.0,11.0,Condo,5.0,6766.090868861043
+78.0,Female,Divorced,5.0,PhD,Self-Employed,199515.0,546.0,75.0,No,Daily,Comprehensive,Urban,1.0,20.0,Condo,3.0,10762.535416661549
+58.0,Female,Married,1.0,Bachelor's,Self-Employed,35029.0,830.0,73.0,No,Rarely,Comprehensive,Suburban,19.0,15.0,House,5.0,7716.621772790882
+36.0,Male,Divorced,5.0,Master's,Self-Employed,122171.0,837.0,51.0,No,Rarely,Premium,Suburban,4.0,9.0,Apartment,0.0,6198.229385601746
+29.0,Male,Single,5.0,Master's,Unemployed,134456.0,453.0,82.0,No,Weekly,Premium,Urban,,13.0,Apartment,5.0,9576.75897126646
+26.0,Female,Divorced,0.0,PhD,Self-Employed,82559.0,453.0,88.0,No,Weekly,Premium,Urban,12.0,12.0,Condo,2.0,6826.076412478072
+24.0,Female,Divorced,,PhD,Unemployed,84892.0,391.0,,Yes,Weekly,Comprehensive,Rural,13.0,8.0,Apartment,4.0,8467.121236391966
+45.0,Female,Divorced,5.0,Bachelor's,Self-Employed,90409.0,732.0,37.0,Yes,Daily,Comprehensive,Urban,,6.0,Apartment,2.0,10754.145224909584
+31.0,Male,Single,2.0,High School,Self-Employed,159707.0,637.0,86.0,No,Monthly,Basic,Suburban,8.0,11.0,Apartment,2.0,3542.338161618626
+48.0,Female,Married,2.0,High School,Employed,53065.0,,49.0,No,Rarely,Premium,Rural,13.0,4.0,Condo,2.0,7631.633896927484
+69.0,Male,Single,1.0,Master's,Self-Employed,140544.0,430.0,54.0,Yes,Weekly,Basic,Suburban,20.0,17.0,Condo,3.0,8441.132530011624
+,Female,Married,2.0,Bachelor's,Self-Employed,127340.0,749.0,48.0,No,Monthly,Basic,Rural,5.0,3.0,Condo,1.0,3663.3163974098366
+75.0,Male,Married,0.0,PhD,Employed,53783.0,572.0,34.0,Yes,Rarely,Basic,Urban,18.0,1.0,House,1.0,8618.349512733761
+64.0,Female,Divorced,3.0,Master's,Unemployed,54152.0,476.0,56.0,No,Monthly,Basic,Urban,15.0,2.0,Apartment,0.0,5352.100568650369
+33.0,Female,Married,3.0,Bachelor's,Unemployed,78741.0,348.0,69.0,No,Daily,Premium,Urban,12.0,11.0,House,2.0,8455.867820181607
+,Female,Single,4.0,High School,Self-Employed,127049.0,654.0,55.0,Yes,Daily,Basic,Suburban,17.0,2.0,Condo,1.0,7058.822486756147
+22.0,Female,Single,5.0,Bachelor's,Unemployed,49092.0,607.0,56.0,No,Daily,Comprehensive,Rural,15.0,3.0,House,0.0,3993.0572333910195
+52.0,Female,Married,0.0,High School,Self-Employed,168725.0,345.0,91.0,Yes,Weekly,Comprehensive,Suburban,2.0,5.0,Apartment,3.0,10296.814869185502
+29.0,Male,Divorced,2.0,Bachelor's,Employed,191541.0,601.0,79.0,Yes,Rarely,Comprehensive,Rural,6.0,11.0,Apartment,2.0,6693.268593671943
+42.0,Female,Divorced,3.0,Master's,Employed,106483.0,707.0,71.0,Yes,Daily,Premium,Urban,17.0,18.0,Condo,4.0,12778.681245268983
+69.0,Female,Single,0.0,High School,Self-Employed,141585.0,488.0,58.0,No,Weekly,Basic,Suburban,16.0,9.0,Condo,3.0,6426.107999264322
+76.0,Female,Divorced,3.0,Master's,Employed,,428.0,68.0,Yes,Weekly,Premium,Urban,17.0,0.0,House,0.0,14026.02221423844
+38.0,Male,Married,2.0,Master's,Employed,181050.0,836.0,89.0,Yes,Weekly,Basic,Suburban,20.0,16.0,Condo,3.0,4758.820422925752
+53.0,Female,Married,3.0,High School,Self-Employed,107592.0,565.0,70.0,No,Weekly,Premium,Urban,9.0,15.0,House,4.0,11435.147804118724
+70.0,Male,Single,5.0,High School,Self-Employed,,417.0,62.0,No,Daily,Premium,Suburban,5.0,8.0,Apartment,3.0,11892.500746405321
+40.0,Female,Married,5.0,PhD,Employed,63169.0,763.0,45.0,No,Weekly,Basic,Suburban,,20.0,Apartment,0.0,3797.630676004936
+33.0,Female,Single,4.0,PhD,Unemployed,199359.0,443.0,52.0,No,Daily,Premium,Rural,6.0,8.0,Apartment,,9526.63933017783
+74.0,Male,Married,4.0,PhD,Unemployed,74745.0,741.0,36.0,No,Daily,Basic,Urban,14.0,8.0,Apartment,4.0,7002.033020089676
+56.0,Female,Single,3.0,Master's,Self-Employed,130168.0,,55.0,No,Weekly,Comprehensive,Rural,17.0,11.0,Apartment,3.0,7987.998527178014
+62.0,Male,Divorced,0.0,Master's,Self-Employed,133985.0,456.0,41.0,Yes,Daily,Comprehensive,Rural,19.0,8.0,House,4.0,12200.285908665675
+70.0,Male,Married,5.0,PhD,Unemployed,25543.0,786.0,34.0,No,Rarely,Comprehensive,Urban,,14.0,Apartment,3.0,9658.394695915627
+59.0,Female,Married,0.0,Master's,Employed,41067.0,433.0,98.0,Yes,Rarely,Premium,Suburban,1.0,1.0,House,2.0,10797.706981254316
+75.0,Male,Single,0.0,Master's,Unemployed,71033.0,447.0,78.0,No,Monthly,Comprehensive,Rural,13.0,10.0,Apartment,4.0,8565.14975926907
+,Female,Single,3.0,High School,Unemployed,65256.0,635.0,55.0,Yes,Rarely,Basic,Urban,14.0,10.0,House,3.0,7386.145255329995
+31.0,Female,Married,0.0,High School,Unemployed,173263.0,370.0,34.0,Yes,Daily,Comprehensive,Suburban,6.0,7.0,House,2.0,10383.022680129423
+,Male,Single,5.0,Master's,Unemployed,106803.0,,51.0,No,Daily,Comprehensive,Rural,6.0,5.0,House,4.0,7486.128671378065
+75.0,Male,Married,2.0,PhD,Self-Employed,138843.0,633.0,42.0,No,Rarely,Premium,Rural,1.0,20.0,Condo,2.0,10744.062582854223
+22.0,Male,Divorced,4.0,Bachelor's,Self-Employed,48992.0,389.0,57.0,Yes,Weekly,Basic,Rural,14.0,19.0,House,5.0,5805.778072486031
+52.0,Male,Single,2.0,PhD,Employed,68803.0,633.0,62.0,No,Weekly,Premium,Suburban,3.0,6.0,House,4.0,9737.928873795945
+,Female,Married,0.0,Bachelor's,Employed,129975.0,498.0,,No,Daily,Premium,Rural,10.0,2.0,Apartment,5.0,9991.391805024941
+46.0,Female,Divorced,2.0,PhD,Employed,164282.0,460.0,47.0,Yes,Weekly,Basic,Suburban,19.0,7.0,House,0.0,6410.891552695699
+60.0,Male,Divorced,5.0,High School,Employed,46270.0,837.0,59.0,Yes,Monthly,Premium,Rural,19.0,17.0,House,0.0,8971.244981243748
+28.0,Female,Married,5.0,Master's,Unemployed,156269.0,420.0,55.0,Yes,Monthly,Basic,Urban,19.0,16.0,Condo,3.0,7116.5991944171265
+35.0,Female,Single,0.0,Master's,Self-Employed,27452.0,,45.0,No,Rarely,Comprehensive,Rural,4.0,10.0,Apartment,1.0,5140.542664723819
+64.0,Female,Married,3.0,High School,Self-Employed,61486.0,735.0,68.0,No,Rarely,Basic,Urban,20.0,1.0,Condo,5.0,6353.4435962899925
+29.0,Female,Divorced,2.0,Bachelor's,Employed,,367.0,62.0,No,Weekly,Basic,Urban,19.0,20.0,Condo,5.0,5597.130022062812
+26.0,Male,Married,3.0,Bachelor's,Employed,178308.0,758.0,55.0,No,Daily,Basic,Urban,10.0,18.0,Condo,0.0,4054.6803244678204
+27.0,Male,Single,3.0,Bachelor's,Unemployed,182971.0,813.0,77.0,Yes,Rarely,Premium,Suburban,,6.0,House,5.0,10879.260415897503
+75.0,Female,Divorced,1.0,High School,Unemployed,52083.0,697.0,94.0,No,Monthly,Basic,Urban,4.0,17.0,Condo,1.0,4877.953458855157
+61.0,Male,Married,0.0,Bachelor's,Employed,87708.0,585.0,67.0,Yes,Rarely,Basic,Rural,6.0,7.0,Condo,2.0,5765.188077270961
+34.0,Male,Single,4.0,High School,Self-Employed,131462.0,439.0,,No,Rarely,Basic,Suburban,7.0,13.0,Apartment,2.0,5048.469192766826
+78.0,Male,Divorced,5.0,PhD,Self-Employed,167735.0,581.0,35.0,No,Monthly,Comprehensive,Urban,16.0,6.0,Apartment,1.0,10536.596602053924
+55.0,Female,Single,5.0,PhD,Self-Employed,113076.0,,75.0,Yes,Daily,Basic,Suburban,7.0,20.0,Apartment,5.0,6991.46154517783
+,Female,Divorced,0.0,High School,Employed,39053.0,386.0,79.0,No,Rarely,Premium,Suburban,18.0,3.0,Apartment,5.0,8667.307730601371
+63.0,Female,Married,4.0,Master's,Self-Employed,162157.0,378.0,67.0,No,Rarely,Basic,Suburban,20.0,16.0,Condo,5.0,6675.41274811203
+30.0,Male,Single,5.0,PhD,Unemployed,181636.0,504.0,47.0,Yes,Rarely,Basic,Rural,19.0,4.0,Apartment,3.0,6100.93375078841
+57.0,Female,Divorced,0.0,Bachelor's,Unemployed,109745.0,636.0,,No,Weekly,Comprehensive,Urban,9.0,11.0,House,4.0,9743.096591714198
+59.0,Female,Single,5.0,High School,Employed,89517.0,553.0,70.0,Yes,Rarely,Basic,Suburban,20.0,8.0,Condo,1.0,5856.942578192768
+26.0,Male,Single,3.0,Bachelor's,Unemployed,172225.0,603.0,46.0,Yes,Monthly,Premium,Suburban,10.0,19.0,Apartment,1.0,10101.972379877572
+67.0,Female,Married,2.0,Bachelor's,Employed,156319.0,679.0,91.0,Yes,Daily,Basic,Suburban,13.0,,Condo,1.0,6046.221827786505
+44.0,Female,Single,2.0,Master's,Self-Employed,161625.0,429.0,58.0,Yes,Daily,Premium,Urban,18.0,17.0,Apartment,1.0,13084.633607833886
+75.0,Male,Divorced,5.0,Bachelor's,Self-Employed,171883.0,575.0,87.0,No,Monthly,Comprehensive,Suburban,16.0,19.0,Condo,1.0,7400.4990746641515
+19.0,Male,Divorced,1.0,Master's,Self-Employed,157207.0,482.0,99.0,No,Weekly,Basic,Suburban,17.0,8.0,Apartment,5.0,4160.510070791451
+22.0,Male,Divorced,4.0,PhD,Unemployed,156645.0,567.0,51.0,No,Monthly,Comprehensive,Rural,13.0,3.0,House,3.0,6012.564921831244
+46.0,Female,Divorced,,High School,Employed,99267.0,621.0,35.0,Yes,Daily,Basic,Urban,12.0,20.0,Apartment,0.0,6477.995800741427
+54.0,Female,Married,4.0,Bachelor's,Self-Employed,158261.0,811.0,,No,Monthly,Premium,Rural,10.0,7.0,Condo,5.0,10164.534888592723
+55.0,Female,Single,3.0,High School,Employed,100077.0,377.0,68.0,No,Weekly,Comprehensive,Urban,1.0,0.0,Condo,5.0,10477.015384896758
+36.0,Male,Married,4.0,Bachelor's,Self-Employed,194718.0,638.0,41.0,No,Daily,Basic,Urban,8.0,,House,4.0,6223.392274661129
+25.0,Male,Single,2.0,High School,Unemployed,96623.0,808.0,43.0,No,Weekly,Premium,Urban,18.0,8.0,Condo,0.0,6963.049793107853
+65.0,Female,Single,3.0,Bachelor's,Unemployed,151004.0,537.0,51.0,Yes,Monthly,Comprehensive,Rural,2.0,19.0,House,1.0,9611.44752642363
+62.0,Female,Single,0.0,Bachelor's,Employed,73687.0,433.0,80.0,Yes,Rarely,Basic,Rural,16.0,12.0,Condo,0.0,5129.6278291824265
+18.0,Male,Married,4.0,Bachelor's,Unemployed,88312.0,491.0,52.0,No,Monthly,Comprehensive,Rural,12.0,1.0,Condo,,5561.313718814384
+39.0,Male,Single,4.0,Bachelor's,Unemployed,127615.0,655.0,77.0,Yes,Weekly,Basic,Rural,9.0,12.0,House,2.0,4753.319597351212
+69.0,Male,Married,0.0,Bachelor's,Employed,150976.0,577.0,79.0,No,Monthly,Premium,Suburban,3.0,8.0,Condo,5.0,11837.058519442979
+34.0,Male,Divorced,4.0,Bachelor's,Self-Employed,47564.0,317.0,42.0,No,Rarely,Premium,Suburban,4.0,19.0,Condo,0.0,7672.517716207239
+24.0,Female,Divorced,0.0,Bachelor's,Unemployed,48835.0,823.0,39.0,No,Weekly,Comprehensive,Suburban,,5.0,House,4.0,6396.328127439772
+42.0,Male,Single,3.0,Bachelor's,Employed,27697.0,479.0,84.0,Yes,Monthly,Comprehensive,Urban,8.0,0.0,Apartment,3.0,8612.552044028684
+62.0,Female,Married,2.0,Bachelor's,Unemployed,100165.0,422.0,38.0,No,Weekly,Basic,Suburban,10.0,4.0,House,2.0,5872.079754210256
+21.0,Female,Divorced,0.0,High School,Unemployed,168118.0,545.0,81.0,Yes,Weekly,Premium,Urban,16.0,2.0,Condo,,10436.23042497501
+53.0,Female,Married,1.0,Master's,Unemployed,77823.0,672.0,31.0,Yes,Daily,Basic,Rural,,3.0,Apartment,,5954.340214028556
+23.0,Male,Married,0.0,Bachelor's,Unemployed,29615.0,350.0,54.0,No,Daily,Premium,Urban,18.0,0.0,Apartment,2.0,8342.496632025617
+77.0,Male,Single,4.0,Master's,Employed,156132.0,370.0,42.0,Yes,Weekly,Comprehensive,Urban,14.0,13.0,Apartment,4.0,16631.928056319015
+48.0,Male,Divorced,3.0,Bachelor's,Employed,150499.0,779.0,80.0,Yes,Monthly,Basic,Suburban,8.0,,House,2.0,5395.080441357549
+36.0,Male,Single,5.0,Bachelor's,Employed,96436.0,318.0,87.0,No,Monthly,Basic,Rural,15.0,3.0,Apartment,4.0,4364.906386636448
+78.0,Female,Single,3.0,High School,Unemployed,140562.0,383.0,63.0,Yes,Monthly,Premium,Rural,17.0,17.0,Apartment,1.0,13338.028652440253
+61.0,Male,Divorced,5.0,PhD,Unemployed,91117.0,454.0,64.0,Yes,Rarely,Premium,Suburban,18.0,13.0,Apartment,4.0,15231.327656546302
+71.0,Male,Divorced,0.0,PhD,Unemployed,54782.0,656.0,32.0,No,Weekly,Premium,Rural,6.0,3.0,Condo,3.0,10199.049121450522
+56.0,Female,Married,2.0,High School,Employed,98533.0,742.0,88.0,No,Weekly,Comprehensive,Rural,14.0,9.0,House,0.0,4628.625744805576
+44.0,Male,Divorced,1.0,Master's,Unemployed,92684.0,368.0,99.0,Yes,Rarely,Basic,Rural,3.0,2.0,House,3.0,5192.149914846297
+27.0,Female,Married,3.0,PhD,Self-Employed,99558.0,822.0,77.0,No,Weekly,Premium,Suburban,7.0,6.0,Condo,5.0,7565.103920914412
+43.0,Female,Married,4.0,High School,Unemployed,101422.0,442.0,93.0,No,Weekly,Comprehensive,Rural,15.0,9.0,Apartment,3.0,5980.973111461996
+36.0,Female,Married,5.0,High School,Self-Employed,176328.0,491.0,48.0,Yes,Rarely,Premium,Urban,16.0,12.0,Condo,2.0,13522.161961420661
+56.0,Female,Divorced,4.0,PhD,Unemployed,181077.0,686.0,96.0,Yes,Daily,Basic,Urban,16.0,3.0,Condo,1.0,6011.262207602329
+79.0,Female,Single,2.0,Master's,Employed,26638.0,677.0,34.0,No,Weekly,Premium,Rural,8.0,17.0,Apartment,5.0,11868.481933914467
+20.0,Female,Married,5.0,High School,Unemployed,57419.0,,96.0,Yes,Rarely,Basic,Suburban,7.0,10.0,Apartment,5.0,4183.227262123271
+62.0,Female,Single,3.0,Bachelor's,Self-Employed,53377.0,592.0,40.0,No,Monthly,Comprehensive,Suburban,6.0,3.0,House,5.0,9972.665646002677
+,Female,Single,0.0,Master's,Self-Employed,,308.0,97.0,No,Daily,Comprehensive,Suburban,2.0,13.0,Apartment,,4652.621831642267
+67.0,Male,Divorced,4.0,Master's,Unemployed,194188.0,570.0,98.0,Yes,Monthly,Premium,Rural,13.0,17.0,Condo,4.0,12474.482196984178
+45.0,Male,Single,2.0,PhD,Self-Employed,187706.0,686.0,30.0,Yes,Weekly,Basic,Rural,12.0,7.0,Condo,2.0,6761.158261155912
+79.0,Male,Single,3.0,PhD,Self-Employed,43382.0,392.0,,No,Daily,Basic,Urban,15.0,9.0,Apartment,1.0,5184.179650699021
+75.0,Male,Divorced,3.0,Bachelor's,Employed,173466.0,828.0,58.0,No,Rarely,Basic,Suburban,9.0,4.0,House,0.0,5202.057438158337
+37.0,Female,Married,3.0,High School,Unemployed,87789.0,453.0,41.0,No,Weekly,Premium,Urban,2.0,,Condo,,10653.029623424143
+45.0,Male,Single,3.0,PhD,Unemployed,130634.0,704.0,70.0,No,Rarely,Basic,Urban,17.0,11.0,Apartment,,4591.271787385263
+25.0,Female,Divorced,,PhD,Unemployed,151936.0,448.0,31.0,Yes,Daily,Basic,Suburban,5.0,2.0,House,5.0,7563.4404835260575
+78.0,Male,Single,3.0,Master's,Self-Employed,119572.0,,66.0,No,Monthly,Basic,Rural,11.0,3.0,House,1.0,4571.33006838113
+58.0,Male,Single,4.0,PhD,Unemployed,191294.0,721.0,74.0,Yes,Weekly,Basic,Rural,19.0,9.0,Condo,1.0,5626.71740284949
+56.0,Male,Married,2.0,PhD,Unemployed,164738.0,771.0,77.0,Yes,Weekly,Premium,Urban,7.0,3.0,Condo,3.0,13291.850791208208
+18.0,Female,Single,5.0,PhD,Employed,143664.0,846.0,53.0,No,Rarely,Premium,Urban,2.0,14.0,House,4.0,8628.75392322032
+20.0,Male,Divorced,3.0,PhD,Employed,172027.0,825.0,51.0,Yes,Daily,Basic,Urban,16.0,,House,2.0,5696.676220539814
+30.0,Female,Single,1.0,Master's,Employed,130674.0,802.0,40.0,Yes,Rarely,Basic,Urban,12.0,20.0,House,5.0,7623.959497186448
+45.0,Female,Married,1.0,Bachelor's,Self-Employed,123533.0,313.0,87.0,No,Daily,Comprehensive,Suburban,15.0,,Apartment,4.0,7811.883616781789
+79.0,Male,Married,2.0,Bachelor's,Unemployed,101845.0,663.0,75.0,Yes,Weekly,Comprehensive,Urban,1.0,14.0,Condo,0.0,10515.160024154115
+74.0,Male,Divorced,0.0,High School,Employed,89590.0,418.0,,Yes,Daily,Basic,Urban,13.0,18.0,House,5.0,9862.849503250201
+77.0,Male,Married,0.0,PhD,Employed,147775.0,,,No,Weekly,Basic,Rural,6.0,19.0,Condo,2.0,5461.260428380922
+66.0,Female,Single,5.0,Master's,Employed,86471.0,845.0,44.0,No,Daily,Comprehensive,Rural,13.0,,Condo,,6844.923115688515
+,Male,Married,5.0,High School,Unemployed,63298.0,468.0,89.0,No,Monthly,Comprehensive,Rural,18.0,17.0,Condo,3.0,5606.2853539732205
+73.0,Female,Divorced,5.0,High School,Unemployed,68924.0,821.0,71.0,No,Daily,Basic,Suburban,,11.0,House,4.0,5626.893268115349
+50.0,Female,Married,0.0,Bachelor's,Unemployed,167781.0,815.0,72.0,No,Monthly,Premium,Suburban,1.0,15.0,Apartment,5.0,10449.77447842107
+55.0,Male,Married,1.0,Master's,Self-Employed,29726.0,696.0,78.0,No,Daily,Premium,Rural,15.0,0.0,House,1.0,6194.192767819608
+70.0,Male,Married,0.0,Master's,Self-Employed,60542.0,405.0,93.0,No,Daily,Basic,Rural,13.0,15.0,Condo,2.0,4625.976010191388
+23.0,Female,Divorced,4.0,Master's,Employed,171317.0,384.0,61.0,Yes,Rarely,Basic,Urban,5.0,1.0,House,5.0,7299.645256038992
+75.0,Female,Married,3.0,Bachelor's,Unemployed,54753.0,513.0,93.0,Yes,Rarely,Comprehensive,Urban,13.0,,House,1.0,10131.762483376293
+61.0,Female,Married,5.0,Bachelor's,Employed,99788.0,420.0,31.0,No,Weekly,Comprehensive,Suburban,5.0,6.0,Condo,5.0,10830.246110320357
+62.0,Male,Single,1.0,Bachelor's,Unemployed,41316.0,431.0,,Yes,Rarely,Premium,Suburban,19.0,0.0,Condo,0.0,12026.411032159602
+49.0,Female,Divorced,2.0,Bachelor's,Unemployed,104698.0,496.0,95.0,Yes,Daily,Basic,Urban,18.0,4.0,House,1.0,5267.5296859691225
+62.0,Male,Married,2.0,Bachelor's,Unemployed,35960.0,318.0,,No,Rarely,Comprehensive,Rural,10.0,9.0,House,1.0,6679.4973830616855
+,Female,Divorced,3.0,PhD,Self-Employed,50791.0,,60.0,Yes,Daily,Premium,Urban,8.0,20.0,House,5.0,19399.104065661115
+64.0,Female,Married,1.0,PhD,Self-Employed,45216.0,380.0,55.0,No,Monthly,Premium,Suburban,15.0,3.0,House,3.0,11097.153496699639
+,Male,Married,0.0,Master's,Unemployed,183539.0,629.0,58.0,Yes,Daily,Premium,Suburban,20.0,13.0,Apartment,3.0,12377.0083021057
+33.0,Female,Married,0.0,High School,Employed,84427.0,691.0,96.0,No,Weekly,Comprehensive,Urban,4.0,12.0,House,4.0,6193.212162137751
+71.0,Male,Single,4.0,Master's,Unemployed,132470.0,606.0,54.0,Yes,Monthly,Comprehensive,Urban,2.0,0.0,Apartment,0.0,11288.530248413968
+38.0,Male,Single,,High School,Unemployed,93290.0,566.0,,Yes,Weekly,Basic,Urban,6.0,15.0,Condo,3.0,6085.299964393866
+28.0,Female,Single,0.0,Bachelor's,Employed,67014.0,746.0,,Yes,Weekly,Basic,Suburban,3.0,8.0,Apartment,5.0,4860.693766333724
+77.0,Male,Divorced,2.0,High School,Unemployed,,740.0,82.0,No,Weekly,Premium,Rural,7.0,15.0,Condo,3.0,9589.22607719172
+54.0,Male,Divorced,5.0,Master's,Employed,70519.0,301.0,96.0,Yes,Rarely,Premium,Urban,10.0,18.0,Apartment,4.0,13918.22622574659
+53.0,Female,Single,2.0,Master's,Self-Employed,24042.0,819.0,47.0,Yes,Weekly,Comprehensive,Suburban,6.0,14.0,Condo,2.0,8930.391734095183
+52.0,Male,Divorced,4.0,High School,Self-Employed,69052.0,608.0,38.0,No,Monthly,Comprehensive,Suburban,16.0,13.0,House,4.0,8812.505814757555
+36.0,Male,Married,3.0,PhD,Employed,34389.0,821.0,67.0,No,Daily,Basic,Suburban,2.0,19.0,Apartment,1.0,3358.0063363065724
+37.0,Male,Married,0.0,Bachelor's,Self-Employed,115961.0,768.0,50.0,Yes,Weekly,Basic,Urban,17.0,9.0,Apartment,1.0,5685.6870871854435
+74.0,Female,Married,4.0,Bachelor's,Self-Employed,88111.0,511.0,94.0,Yes,Monthly,Basic,Urban,13.0,20.0,Condo,3.0,7612.272595947001
+35.0,Male,Single,4.0,Master's,Employed,125058.0,411.0,,Yes,Weekly,Comprehensive,Rural,1.0,11.0,Condo,3.0,8633.486399685786
+64.0,Female,Divorced,5.0,PhD,Self-Employed,113715.0,307.0,56.0,Yes,Daily,Premium,Suburban,6.0,0.0,Apartment,4.0,16025.020576279216
+58.0,Female,Single,0.0,High School,Unemployed,70733.0,776.0,99.0,No,Monthly,Basic,Urban,5.0,20.0,Condo,4.0,4744.139704267359
+66.0,Male,Divorced,5.0,Bachelor's,Unemployed,54754.0,759.0,73.0,Yes,Monthly,Basic,Suburban,,16.0,House,5.0,7292.374681498406
+31.0,Male,Married,0.0,PhD,Employed,169696.0,552.0,57.0,Yes,Daily,Comprehensive,Suburban,18.0,8.0,Apartment,,7397.360956674227
+32.0,Male,Single,5.0,Bachelor's,Self-Employed,105886.0,825.0,74.0,No,Monthly,Basic,Rural,12.0,18.0,House,5.0,4163.399629735792
+48.0,Female,Divorced,,PhD,Unemployed,177753.0,737.0,46.0,Yes,Daily,Premium,Urban,7.0,17.0,Apartment,1.0,12896.791396109784
+18.0,Male,Divorced,3.0,PhD,Unemployed,109524.0,535.0,69.0,Yes,Monthly,Comprehensive,Urban,15.0,6.0,House,5.0,9396.750645952285
+70.0,Male,Married,3.0,Master's,Self-Employed,101006.0,605.0,32.0,Yes,Monthly,Basic,Suburban,3.0,8.0,Apartment,4.0,9063.562039419945
+71.0,Male,Single,0.0,Bachelor's,Self-Employed,44704.0,777.0,95.0,No,Daily,Basic,Suburban,16.0,20.0,Condo,5.0,5075.279624014264
+71.0,Male,Single,1.0,High School,Unemployed,114913.0,319.0,,No,Daily,Comprehensive,Rural,1.0,11.0,Apartment,,8182.288630969355
+20.0,Male,Single,4.0,Master's,Unemployed,114108.0,515.0,59.0,Yes,Monthly,Comprehensive,Rural,16.0,6.0,House,0.0,5805.269518232563
+33.0,Female,Married,4.0,Master's,Employed,27493.0,434.0,98.0,Yes,Monthly,Basic,Rural,12.0,13.0,Apartment,4.0,4286.761849578431
+40.0,Female,Single,0.0,High School,Employed,89639.0,428.0,38.0,No,Daily,Premium,Rural,19.0,14.0,House,3.0,9520.696667173368
+74.0,Male,Married,5.0,Master's,Unemployed,74383.0,709.0,40.0,Yes,Rarely,Comprehensive,Rural,8.0,14.0,House,5.0,12464.638287903992
+28.0,Male,Married,1.0,PhD,Employed,154066.0,721.0,98.0,Yes,Daily,Premium,Rural,12.0,5.0,House,4.0,7911.846202616277
+29.0,Male,Married,2.0,PhD,Unemployed,67234.0,593.0,95.0,No,Monthly,Basic,Suburban,15.0,20.0,Condo,3.0,3127.1026768482357
+27.0,Male,Divorced,5.0,Bachelor's,Unemployed,198363.0,545.0,60.0,No,Monthly,Premium,Rural,2.0,13.0,Apartment,3.0,7845.367620820373
+49.0,Female,Single,5.0,Bachelor's,Employed,148674.0,385.0,62.0,No,Monthly,Basic,Suburban,17.0,1.0,House,1.0,4687.654976051018
+33.0,Male,Single,0.0,High School,Employed,25594.0,674.0,68.0,Yes,Daily,Basic,Suburban,7.0,7.0,Condo,1.0,4045.5110931154454
+25.0,Female,Married,0.0,Bachelor's,Self-Employed,27371.0,745.0,75.0,Yes,Monthly,Basic,Urban,13.0,12.0,House,4.0,5064.377203056252
+55.0,Female,Married,4.0,PhD,Self-Employed,67315.0,677.0,,Yes,Rarely,Basic,Suburban,1.0,,Apartment,4.0,6967.508472275297
+29.0,Male,Single,0.0,High School,Self-Employed,147251.0,689.0,89.0,Yes,Weekly,Premium,Suburban,6.0,4.0,Condo,2.0,8183.34235063005
+41.0,Female,Married,0.0,High School,Unemployed,99526.0,350.0,60.0,No,Rarely,Basic,Rural,,4.0,House,0.0,3784.6892986930616
+45.0,Female,Single,,Bachelor's,Employed,167698.0,541.0,40.0,Yes,Daily,Basic,Suburban,11.0,0.0,House,0.0,6202.114941015017
+70.0,Female,Divorced,4.0,PhD,Unemployed,106005.0,,31.0,Yes,Monthly,Premium,Rural,10.0,,House,4.0,15119.272725007324
+25.0,Female,Married,2.0,High School,Employed,125573.0,565.0,56.0,No,Daily,Comprehensive,Rural,16.0,5.0,Apartment,1.0,5213.637745356396
+75.0,Male,Single,2.0,PhD,Unemployed,158202.0,419.0,31.0,No,Weekly,Premium,Rural,20.0,19.0,Condo,5.0,13644.938331364743
+45.0,Male,Married,0.0,PhD,Self-Employed,157900.0,547.0,50.0,Yes,Daily,Premium,Urban,17.0,6.0,Condo,2.0,13809.47778180166
+53.0,Female,Single,4.0,PhD,Self-Employed,77514.0,369.0,87.0,No,Monthly,Premium,Rural,17.0,8.0,Condo,0.0,6448.188471775115
+43.0,Male,Single,2.0,Bachelor's,Self-Employed,168955.0,356.0,34.0,No,Weekly,Basic,Suburban,4.0,4.0,House,4.0,6801.440887505417
+25.0,Male,Married,5.0,Master's,Unemployed,,681.0,81.0,Yes,Weekly,Basic,Rural,5.0,13.0,Condo,1.0,3866.9671702173873
+75.0,Male,Divorced,2.0,Master's,Employed,194004.0,338.0,74.0,Yes,Monthly,Basic,Rural,14.0,4.0,House,1.0,7075.076378265009
+77.0,Male,Single,2.0,High School,Employed,95986.0,742.0,49.0,Yes,Monthly,Comprehensive,Rural,20.0,7.0,Apartment,1.0,9952.435292139953
+67.0,Male,Single,4.0,PhD,Self-Employed,105959.0,317.0,90.0,Yes,Monthly,Basic,Urban,10.0,6.0,Condo,5.0,8677.892740283743
+45.0,Female,Single,5.0,Bachelor's,Self-Employed,22035.0,651.0,67.0,No,Daily,Comprehensive,Suburban,14.0,12.0,House,3.0,6897.665316803374
+45.0,Male,Divorced,4.0,PhD,Self-Employed,129767.0,597.0,49.0,No,Rarely,Basic,Urban,1.0,12.0,Condo,5.0,6505.955213411155
+54.0,Male,Divorced,0.0,PhD,Self-Employed,191817.0,582.0,54.0,Yes,Daily,Premium,Suburban,11.0,7.0,Condo,1.0,12888.324150785791
+58.0,Male,Married,3.0,Bachelor's,Employed,37241.0,409.0,31.0,Yes,Daily,Basic,Urban,18.0,10.0,Apartment,4.0,9658.993060685358
+53.0,Male,Divorced,2.0,Master's,Unemployed,72975.0,479.0,61.0,No,Rarely,Comprehensive,Suburban,16.0,17.0,Condo,,7548.52520640364
+44.0,Female,Married,3.0,PhD,Unemployed,174226.0,843.0,55.0,Yes,Monthly,Comprehensive,Urban,18.0,18.0,Apartment,5.0,11750.187398252978
+71.0,Female,Married,4.0,PhD,Unemployed,176697.0,324.0,99.0,Yes,Monthly,Basic,Rural,8.0,5.0,Condo,4.0,6676.199857302853
+34.0,Female,Divorced,4.0,Master's,Unemployed,196022.0,356.0,70.0,Yes,Rarely,Premium,Urban,10.0,1.0,Condo,1.0,11828.662788139614
+26.0,Female,Married,4.0,Bachelor's,Self-Employed,76396.0,,96.0,Yes,Rarely,Basic,Urban,10.0,,Condo,2.0,4504.742009546512
+50.0,Male,Divorced,3.0,High School,Self-Employed,138920.0,531.0,30.0,No,Daily,Basic,Rural,5.0,10.0,Condo,0.0,4551.316973262877
+70.0,Female,Married,4.0,Master's,Self-Employed,164403.0,642.0,80.0,Yes,Weekly,Basic,Rural,10.0,0.0,Condo,0.0,5538.319130691384
+37.0,Male,Divorced,0.0,High School,Unemployed,106226.0,776.0,34.0,No,Rarely,Premium,Suburban,18.0,,Condo,4.0,10074.763967634211
+30.0,Male,Divorced,,High School,Self-Employed,104719.0,754.0,42.0,Yes,Daily,Comprehensive,Suburban,6.0,16.0,Apartment,2.0,8475.513758158926
+45.0,Male,Married,1.0,Master's,Self-Employed,83014.0,531.0,48.0,Yes,Weekly,Premium,Suburban,3.0,7.0,Apartment,4.0,13629.773421774757
+65.0,Male,Single,3.0,PhD,Employed,59346.0,588.0,41.0,No,Monthly,Comprehensive,Urban,8.0,1.0,House,2.0,9482.695265307986
+46.0,Male,Married,,High School,Employed,90411.0,512.0,77.0,Yes,Monthly,Comprehensive,Suburban,9.0,5.0,Condo,2.0,8494.44573411329
+30.0,Female,Divorced,4.0,High School,Self-Employed,,557.0,54.0,No,Daily,Comprehensive,Urban,5.0,4.0,Apartment,4.0,8497.79052666537
+63.0,Female,Single,0.0,Bachelor's,Employed,179693.0,829.0,86.0,Yes,Daily,Premium,Urban,2.0,15.0,Condo,2.0,12468.060548815229
+52.0,Female,Married,2.0,PhD,Employed,96441.0,528.0,64.0,Yes,Rarely,Basic,Suburban,2.0,7.0,Condo,5.0,7546.860123101103
+78.0,Female,Married,5.0,High School,Self-Employed,66121.0,525.0,34.0,Yes,Monthly,Basic,Suburban,7.0,18.0,Apartment,1.0,8032.024632145541
+23.0,Male,Married,5.0,Bachelor's,Self-Employed,80197.0,734.0,51.0,Yes,Daily,Basic,Urban,17.0,15.0,Condo,2.0,5297.068088323901
+35.0,Female,Single,4.0,PhD,Self-Employed,104577.0,701.0,86.0,Yes,Monthly,Basic,Rural,10.0,12.0,Apartment,5.0,5016.805554429774
+68.0,Male,Divorced,0.0,Master's,Self-Employed,114634.0,387.0,76.0,No,Monthly,Basic,Rural,12.0,,Apartment,2.0,4927.603613374718
+22.0,Female,Married,3.0,Master's,Unemployed,193503.0,841.0,83.0,No,Rarely,Premium,Urban,2.0,6.0,House,5.0,8851.81774342428
+64.0,Male,Married,1.0,Bachelor's,Unemployed,120211.0,608.0,32.0,Yes,Weekly,Premium,Suburban,10.0,15.0,House,4.0,16705.637118100876
+42.0,Male,Married,1.0,Master's,Self-Employed,155909.0,642.0,82.0,Yes,Rarely,Premium,Urban,,15.0,House,0.0,9215.577809546676
+19.0,Female,Married,1.0,High School,Employed,163687.0,735.0,60.0,No,Daily,Premium,Urban,1.0,11.0,House,3.0,8337.852336118713
+27.0,Male,Married,3.0,PhD,Self-Employed,,476.0,,No,Rarely,Premium,Suburban,4.0,13.0,Condo,2.0,5548.473414816737
+73.0,Male,Divorced,5.0,High School,Self-Employed,50771.0,438.0,62.0,Yes,Rarely,Premium,Rural,13.0,17.0,Condo,3.0,13348.551622704234
+47.0,Female,Divorced,,High School,Employed,103886.0,493.0,79.0,Yes,Monthly,Premium,Urban,12.0,17.0,House,2.0,11791.962760598723
+67.0,Male,Married,3.0,Master's,Unemployed,85911.0,485.0,45.0,No,Rarely,Basic,Rural,11.0,15.0,Apartment,,5818.576777502953
+76.0,Female,Single,1.0,High School,Self-Employed,171818.0,517.0,68.0,Yes,Daily,Comprehensive,Rural,10.0,19.0,Apartment,4.0,11887.63439455665
+62.0,Female,Divorced,4.0,Master's,Self-Employed,108422.0,463.0,75.0,No,Weekly,Premium,Suburban,15.0,15.0,Apartment,5.0,11404.918267560697
+22.0,Female,Single,2.0,PhD,Unemployed,93369.0,460.0,76.0,Yes,Rarely,Comprehensive,Urban,5.0,12.0,Apartment,2.0,7798.750285934366
+72.0,Male,Divorced,3.0,PhD,Unemployed,21893.0,824.0,73.0,No,Rarely,Premium,Urban,17.0,8.0,Condo,4.0,11366.578567691002
+73.0,Male,Married,3.0,High School,Employed,50573.0,341.0,38.0,No,Weekly,Premium,Rural,5.0,8.0,Apartment,4.0,12048.106850486382
+50.0,Male,Divorced,0.0,Bachelor's,Unemployed,116907.0,509.0,79.0,Yes,Daily,Basic,Rural,,,Apartment,2.0,5606.512922384427
+,Female,Married,0.0,Master's,Unemployed,,574.0,89.0,No,Daily,Comprehensive,Suburban,9.0,3.0,House,5.0,9447.766210339449
+18.0,Male,Divorced,3.0,Master's,Unemployed,119956.0,578.0,44.0,Yes,Rarely,Basic,Rural,6.0,8.0,Apartment,5.0,5729.387723343177
+35.0,Female,Married,1.0,High School,Employed,138580.0,550.0,65.0,Yes,Monthly,Basic,Suburban,18.0,14.0,Condo,5.0,7128.671036029048
+49.0,Female,Married,2.0,Master's,Unemployed,184439.0,609.0,92.0,Yes,Rarely,Comprehensive,Urban,14.0,13.0,Apartment,5.0,11717.412011121101
+64.0,Male,Married,0.0,Master's,Unemployed,172271.0,439.0,98.0,Yes,Weekly,Basic,Suburban,19.0,18.0,Apartment,0.0,6105.720797398443
+66.0,Female,Married,1.0,Bachelor's,Employed,111404.0,845.0,70.0,No,Weekly,Premium,Rural,14.0,11.0,Condo,2.0,8324.508014295423

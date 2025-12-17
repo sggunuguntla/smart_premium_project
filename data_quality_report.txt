@@ -1,0 +1,30 @@
+
+DATA QUALITY REPORT
+
+Dataset Dimensions:
+  • Total Records: 5,000
+  • Total Features: 18
+  • Numerical Features: 9
+  • Categorical Features: 9
+
+Data Type Distribution:
+  • Numerical: 9 columns
+  • Categorical: 9 columns
+
+Missing Data:
+  • Total Missing Values: 0
+  • Percentage: 0.00%
+  • Features with Missing Values: 0
+
+Target Variable (Premium Amount):
+  • Mean: $8,260.22
+  • Median: $7,907.80
+  • Std Dev: $3,050.95
+  • Min: $2,186.95
+  • Max: $20,139.02
+  • Skewness: 0.635
+
+Outliers (Using IQR method):
+  • Premium Amount Outliers: 44
+
+Data Completeness: 100.00%
