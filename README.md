@@ -190,7 +190,7 @@ customer_data = pd.DataFrame({
 # Predict
 premium = model.predict(customer_data)[0]
 print(f"Predicted Premium: ${premium:.2f}")
-```
+
 
 ## Visualization Examples
 
@@ -242,42 +242,3 @@ A: Use different port: `streamlit run app.py --server.port=8502`
 - Keep Streamlit UI user-friendly
 - Test predictions before deployment
 
-## Timeline
-
-- **Total Duration:** 1 week
-- **Days 1-2:** Data exploration and preprocessing
-- **Days 3-4:** Model training and evaluation
-- **Day 5:** MLflow integration and pipeline
-- **Day 6:** Streamlit deployment
-- **Day 7:** Testing, optimization, and documentation
-
-## Success Criteria
-
-✅ Achieve R² score > 0.90  
-✅ RMSE < 1,500 on test set  
-✅ Working Streamlit web app  
-✅ Clean, documented code  
-✅ All steps properly explained  
-✅ Deployed and accessible  
-
-## Additional Learning
-
-- Explore ensemble methods beyond the basics
-- Implement cross-validation
-- Try advanced feature engineering
-- Experiment with different hyperparameters
-- Add more visualizations
-- Create API endpoints
-- Implement caching for performance
-
-## License
-
-This project is created for educational purposes.
-
-## Author
-
-Created as part of the SmartPremium Machine Learning Capstone Project.
-
----
-
-**Happy Learning! 🚀 Feel free to experiment and innovate!**
